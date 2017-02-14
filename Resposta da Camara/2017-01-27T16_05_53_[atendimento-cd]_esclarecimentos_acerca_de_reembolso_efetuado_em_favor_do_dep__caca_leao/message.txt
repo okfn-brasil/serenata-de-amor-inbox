@@ -1,0 +1,234 @@
+Delivered-To: op.serenatadeamor+bruno@gmail.com
+Received: by 10.12.154.7 with SMTP id p7csp307106qvd;
+        Fri, 27 Jan 2017 08:05:54 -0800 (PST)
+X-Received: by 10.36.98.80 with SMTP id d77mr3303613itc.99.1485533153967;
+        Fri, 27 Jan 2017 08:05:53 -0800 (PST)
+Return-Path: <camara@mailmw.custhelp.com>
+Received: from mailgwmw04.rightnowtech.com (mailgwmw04.rightnowtech.com. [74.117.203.124])
+        by mx.google.com with ESMTPS id f75si4642812ioi.23.2017.01.27.08.05.53
+        for <op.serenatadeamor+bruno@gmail.com>
+        (version=TLS1 cipher�S128-SHA bits8/128);
+        Fri, 27 Jan 2017 08:05:53 -0800 (PST)
+Received-SPF: pass (google.com: domain of camara@mailmw.custhelp.com designates 74.117.203.124 as permitted sender) client-ipt.117.203.124;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@mailmw.custhelp.com;
+       spf=pass (google.com: domain of camara@mailmw.custhelp.com designates 74.117.203.124 as permitted sender) smtp.mailfrom�mara@mailmw.custhelp.com;
+       dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=custhelp.com
+Return-Path: <camara@mailmw.custhelp.com>
+DomainKey-Signature: q=dns; a=rsa-sha1; c=nofws;
+	s=dkrnt; d=mailmw.custhelp.com;
+	h=DKIM-Signature:Received:Content-Type:From:To:Date:Subject:MIME-Version:Message-Id;
+	b=KQMYMIxpL68r36skUGXxJOIxtur05I82/oDNsKoEjvY1EuTaR1awg4e1KbWcMdN5
+	Gz+NyCK5EIPgmoZ5l4qzxrXtXP8vG1qnD+Hdq37Ur14pWh4RHSR3XsbACWvPGcDX
+	T+DUTsjBVnIUeusRv+p02xmrOQj40jN5emyj7sgT1LEDKIM-Signature: v=1; a=rsa-sha1; d=mailmw.custhelp.com; s=dkimrnt; c=simple/simple;
+	q=dns/txt; i=@mailmw.custhelp.com; t85533153;
+	h=From:Subject:Date:To:MIME-Version:Content-Type;
+	bh=9r85RyOrV0Svcj3ywNr8xjYyVuo=;
+	b=LE14q6OILXrObnrgcbgXAVbru2srZ1QqjzaBdCJvKK0MjkdRceBAt5lEXBK5EJPU
+	ewfGS84i3QPUHVxny/6UlKf9BJMN38SkTIiHCT/iHB3zrvLdZi352EggOtB0Zy6m
+	fJowkUE7wF/xa1T2MZf07UzQFpUCYHYc5MckAQRIKWs=;
+Received: from [10.70.0.96] ([10.70.0.96:16508] helo�cess-mw.rightnowtech.com)
+	by rntmw125.rnmk.com (envelope-from <camara@mailmw.custhelp.com>)
+	(ecelerity 2.2.2.45 r(34222M)) with ESMTP
+	id 87/25-30017-1EF6B885; Fri, 27 Jan 2017 10:05:53 -0600
+Received: from webmw24.int.rightnowtech.com (localhost [127.0.0.1])
+	by access-mw.rightnowtech.com ("Mail Server") with SMTP id 9EB3A232F23
+	for <op.serenatadeamor+bruno@gmail.com>; Fri, 27 Jan 2017 10:05:53 -0600 (CST)
+Content-Type: Multipart/Alternative;
+  boundary="------------Boundary-00=_TP4GVA40000000000000"
+From: =?UTF-8?Q?"Câmara_dos_Deputados"_?    <camara@mailmw.custhelp.com>
+To: op.serenatadeamor+bruno@gmail.com
+Date: Fri, 27 Jan 2017 14:05:53 -0200 (BRST)
+Subject: =?UTF-8?Q?[Atendimento-CD]_Esclarecimentos_acerca_de_reembolso_efetuado_?    =?UTF-8?Q?em_favor_do_Dep._Cacá_Leão?MIME-Version: 1.0
+Message-Id: <RNTT.AvMw~wocDv8S~Xb~Grwe~yJf9v8qAo3~JzL96zj~PP80.1485533153.wDnEJcgb@webmw24.int.rightnowtech.com>
+
+
+--------------Boundary-00=_TP4GVA40000000000000
+Content-Type: Text/Plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Recently you requested personal assistance from our on-line support  
+center. Below is a summary of your request and our response.
+We are continuing to work on your issue. To update your question with  
+additional information, click http://camara.custhelp.com/app/account/questions/detail/i_id/7153/track/AvMw~wocDv8S~Xb~Grwe~yJf9v8qAi75Mv8N~zj~PP~E/
+
+---------------------------------------------------------------
+
+Subject
+---------------------------------------------------------------
+Esclarecimentos acerca de reembolso efetuado em favor do Dep. Cacá Leão
+
+Discussion Thread
+---------------------------------------------------------------
+Resposta By E-mail (Câmara dos Deputados) (27/01/2017 14:05)     
+Senhor(a) Bruno Quadros,
+ 
+A Câmara dos Deputados agradece seu contato.
+ 
+Em atenção ao solicitado, esclarecemos que a sua demanda foi submetida ao Departamento de Finanças, Orçamento e Contabilidade (Defin) da Câmara dos Deputados, que informou o que segue:
+ 
+"Tendo em vista a dúvida suscitada pelo(a) requerente, quanto à regularidade do ressarcimento, o parlamentar entrou em contato com esta Coordenação e procedeu à devolução do valor de R$ 80,50, montante integral da despesa ressarcida por meio da Cota para o Exercício da Atividade Parlamentar – CEAP, objeto do questionamento.
+Ressaltamos que já foram efetuados os devidos ajustes no sistema de Controle da Cota para o Exercício da Atividade Parlamentar e Portal Transparência da Câmara dos Deputados na internet."
+ 
+Em caso de dúvidas, estamos à disposição.
+ 
+Atenciosamente,
+ 
+Câmara dos Deputados
+
+
+Demandante By Autosserviço (Bruno Quadros) (12/01/2017 21:54)     
+Venho por meio deste solicitar esclarecimentos acerca de um reembolso efetuado a partir da CEAP. Trata-se de uma despesa do Deputado Cacá Leão no dia 26/03/2015.
+
+No documento, estão descritos 4 pratos e 2 bebidas. Tendo em vista que a CEAP, de acordo com Ato da Mesa, é de usufruto exclusivo do parlamentar no que diz respeito a fornecimento de alimentação, solicito uma devolutiva a este pedido.
+
+Seguem links para apreciação:
+
+http://www.camara.gov.br/cota-parlamentar/documento?nuDeputadoId=2897&numMes=3&numAno=2015&despesa=13&idDocumento=125384
+http://www.camara.gov.br/cota-parlamentar/documentos/publ/2897/2015/5639392.pdf
+
+
+
+Question Reference # 170112-000339
+       Date Created: 12/01/2017 21:54
+  Date Last Updated: 27/01/2017 14:05
+             Status: Recebida
+
+
+[---001:002103:52831---]
+
+--------------Boundary-00=_TP4GVA40000000000000
+Content-Type: Text/Html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:rn="http://schemas.rightnow.com/crm/document">
+<head>
+<title>Modelo Câmara</title>
+
+<style type="text/css" xml:space="preserve">
+/*<![CDATA[*/
+P.MsoNormal {
+        MARGIN: 0px
+}
+LI.MsoNormal {
+        MARGIN: 0px
+}
+DIV.MsoNormal {
+        MARGIN: 0px
+}
+P.MsoListParagraph {
+        MARGIN-LEFT: 48px
+}
+LI.MsoListParagraph {
+        MARGIN-LEFT: 48px
+}
+DIV.MsoListParagraph {
+        MARGIN-LEFT: 48px
+}
+/*]]>*/
+</style>
+                                                                     
+</head>
+<body style="FONT-FAMILY: Segoe UI, Verdana, sans-serif">
+
+<div title="rntmarker_16797" id="rntmarker_16797_wDnEJcgb">
+
+<table style="FONT-FAMILY: Segoe UI, Verdana, sans-serif" cellspacing="0" cellpadding="0" width="610" align="center" border="1">
+<tbody>
+<tr>
+<td bgcolor="#F5F5F5">
+<table style="FONT-FAMILY: Segoe UI, Verdana, sans-serif" cellpadding="5" width="600" align="center">
+<tbody>
+<tr>
+<td bgcolor="#FFFFFF">
+<table>
+<tbody>
+<tr>
+<td valign="top">
+<p> </p>
+<p> </p>
+<p> </p>
+</td>
+<td valign="top" width="500">
+<p align="center"><img alt="Image" height="33" src="https://camara.custhelp.com/rnt/rnw/img/enduser/logocamara.jpg" width="285" /></p>
+
+<table style="FONT-FAMILY: Segoe UI, Verdana, sans-serif; WIDTH: 561px" cellpadding="1" width="561">
+<tbody>
+<tr>
+<td>
+<h1 style="FONT-SIZE: 12pt; FONT-FAMILY: Calibri; FONT-WEIGHT: normal; COLOR: #000000; MARGIN: 5px"><span style="FONT-SIZE: 12pt; FONT-FAMILY: Calibri; WHITE-SPACE: pre-wrap; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px">Esta notificação está sendo encaminhada para acompanhamento do atendimento à demanda a seguir.</span></h1>
+<p style="FONT-SIZE: 12pt; FONT-FAMILY: Calibri; FONT-WEIGHT: normal; COLOR: #000000; MARGIN: 5px"></p>
+<h1 style="FONT-SIZE: 12pt; FONT-FAMILY: Calibri; FONT-WEIGHT: normal; COLOR: #000000; MARGIN: 5px">Identificação da demanda:</h1>
+<p style="FONT-SIZE: 12pt; FONT-FAMILY: Calibri; FONT-WEIGHT: normal; COLOR: #000000; MARGIN: 5px">Protocolo: 170112-000339</p>
+<p style="FONT-SIZE: 12pt; FONT-FAMILY: Calibri; FONT-WEIGHT: normal; COLOR: #000000; MARGIN: 5px">Título:<span style="HEIGHT: 19px; WIDTH: 500px">  Esclarecimentos acerca de reembolso efetuado em favor do Dep. Cacá Leão</span></p>
+</td>
+</tr>
+<tr>
+<td>
+
+<div style="font-size: 12pt; border: 1px solid #CCC; background-color: #EEE">Resposta Por E-mail (Câmara dos Deputados) <span style="FONT-SIZE: 10pt; COLOR: #4f4f4f">(27/01/2017 14:05)</span></div>
+<div style="font-size: 12pt; border: 1px solid #BBB;">
+<div><span style="font-family:Arial;font-size:12px;">Senhor(a) Bruno Quadros,</span></div>
+<div style="font-family:Arial;font-size:12px;">&nbsp;</div>
+<div><span style="font-family:Arial;font-size:12px;">A Câmara dos Deputados agradece seu contato.</span></div>
+<div style="font-family:Arial;font-size:12px;">&nbsp;</div>
+<div><span style="font-family:Arial;font-size:12px;">Em atenção ao solicitado, esclarecemos que a sua demanda foi submetida ao Departamento de Finanças, Orçamento e Contabilidade (Defin) da Câmara dos Deputados, que informou o que segue:</span></div>
+<div style="font-family:Arial;font-size:12px;">&nbsp;</div>
+<div><span style="font-style:italic;font-family:Arial;font-size:10px;">&quot;</span><span style="font-style:italic;font-family:Arial;font-size:10px;">Tendo em vista a dúvida suscitada pelo(a) requerente, quanto à regularidade do ressarcimento, o parlamentar entrou em contato com esta Coordenação e procedeu à devolução do valor de R$ 80,50, montante integral da despesa ressarcida por meio da Cota para o Exercício da Atividade Parlamentar – CEAP, objeto do questionamento.</span></div>
+<div><span style="font-style:italic;font-family:Arial;font-size:10px;">Ressaltamos que já foram efetuados os devidos ajustes no sistema de Controle da Cota para o Exercício da Atividade Parlamentar e Portal Transparência da Câmara dos Deputados na internet.</span><span style="font-style:italic;font-family:Arial;font-size:10px;">&quot;</span></div>
+<div><span style="font-family:Arial;font-size:12px;">&nbsp;</span></div>
+<div><span style="font-family:Arial;font-size:12px;">Em caso de dúvidas, estamos à disposição.</span></div>
+<div style="font-family:Arial;font-size:12px;">&nbsp;</div>
+<div><span style="font-family:Arial;font-size:12px;">Atenciosamente,</span></div>
+<div style="font-family:Arial;font-size:12px;">&nbsp;</div>
+<div><span style="font-family:Arial;font-size:12px;">Câmara dos Deputados</span></div>
+
+
+</div>
+
+
+
+
+
+
+
+<div style="font-size: 12pt; border: 1px solid #CCC; background-color: #CCC">Demandante Por Autosserviço (Bruno Quadros) <span style="FONT-SIZE: 10pt; COLOR: #4f4f4f">(12/01/2017 21:54)</span></div>
+<div style="font-size: 12pt; border: 1px solid #BBB; background-color: #FFF">
+Venho por meio deste solicitar esclarecimentos acerca de um reembolso efetuado a partir da CEAP. Trata-se de uma despesa do Deputado Cacá Leão no dia 26/03/2015.<br /><br />No documento, estão descritos 4 pratos e 2 bebidas. Tendo em vista que a CEAP, de acordo com Ato da Mesa, é de usufruto exclusivo do parlamentar no que diz respeito a fornecimento de alimentação, solicito uma devolutiva a este pedido.<br /><br />Seguem links para apreciação:<br /><br /><a href="http://www.camara.gov.br/cota-parlamentar/documento?nuDeputadoId=2897&numMes=3&numAno=2015&despesa=13&idDocumento=125384" target="_blank">http://www.camara.gov.br/cota-parlamentar/documento?nuDeputadoId=2897&numMes=3&numAno=2015&despesa=13&idDocumento=125384</a><br /><a
+href="http://www.camara.gov.br/cota-parlamentar/documentos/publ/2897/2015/5639392.pdf" target="_blank">http://www.camara.gov.br/cota-parlamentar/documentos/publ/2897/2015/5639392.pdf</a>
+</div>
+
+
+
+
+
+
+
+</td>
+</tr>
+</tbody>
+</table>
+<p style="FONT-SIZE: 12pt; FONT-FAMILY: Calibri; MARGIN: 0px; LINE-HEIGHT: 18px"></p>
+<p style="FONT-SIZE: 12pt; FONT-FAMILY: Calibri; FONT-WEIGHT: normal; MARGIN: 0px; LINE-HEIGHT: 18px">Por favor, não responda a este e-mail.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<img alt="" height="1" width="1" style="display: none" src="http://camara.custhelp.com/rd/AvMw~wocDv8S~Xb~Grwe~yJf9v8qAi75Mv8N~zj~PP~E.gif"/> <div id="checksum" align="right"><span style="font-size: 1pt">
+[---001:001654:16797---]
+</span></div>
+</div>
+</body>
+</html>
+
+--------------Boundary-00=_TP4GVA40000000000000--
+

@@ -1,0 +1,241 @@
+Delivered-To: op.serenatadeamor+cuducos@gmail.com
+Received: by 10.12.154.7 with SMTP id p7csp289905qvd;
+        Fri, 27 Jan 2017 07:25:24 -0800 (PST)
+X-Received: by 10.36.159.3 with SMTP id c3mr3514562ite.50.1485530724278;
+        Fri, 27 Jan 2017 07:25:24 -0800 (PST)
+Return-Path: <camara@mailmw.custhelp.com>
+Received: from mailgwmw03.rightnowtech.com (mailgwmw03.rightnowtech.com. [74.117.203.123])
+        by mx.google.com with ESMTPS id d15si4576291ioj.51.2017.01.27.07.25.24
+        for <op.serenatadeamor+cuducos@gmail.com>
+        (version=TLS1 cipher�S128-SHA bits8/128);
+        Fri, 27 Jan 2017 07:25:24 -0800 (PST)
+Received-SPF: pass (google.com: domain of camara@mailmw.custhelp.com designates 74.117.203.123 as permitted sender) client-ipt.117.203.123;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@mailmw.custhelp.com;
+       spf=pass (google.com: domain of camara@mailmw.custhelp.com designates 74.117.203.123 as permitted sender) smtp.mailfrom�mara@mailmw.custhelp.com;
+       dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=custhelp.com
+Return-Path: <camara@mailmw.custhelp.com>
+DomainKey-Signature: q=dns; a=rsa-sha1; c=nofws;
+	s=dkrnt; d=mailmw.custhelp.com;
+	h=DKIM-Signature:Received:Content-Type:From:To:Date:Subject:MIME-Version:Message-Id;
+	b=o23M+0U1tnxoDffnHsXWLPz7bSZcgFSgJ+7gDr8xsa1Kvkwp87fhd7EmmZ/JnE/O
+	Gq3MhWx5ajjOmJ7u/ZNtRMEZ4sNWXrfjl1831y5UAwF3MzoXsSVC3CJbQ8+XxaZp
+	s79Cp1+XMGsTX7uUiUAcxPACS4jwOaN91svbFABOS8QDKIM-Signature: v=1; a=rsa-sha1; d=mailmw.custhelp.com; s=dkimrnt; c=simple/simple;
+	q=dns/txt; i=@mailmw.custhelp.com; t85530724;
+	h=From:Subject:Date:To:MIME-Version:Content-Type;
+	bh�HXX+ghSJRmhkDKjuy8K4zpolU=;
+	b=goh6sjF8nR0/e10hB3FD0xUcvNoi5q+qmgDCBs7lRkYDnf9GaTEXoOqZ7sfUpK4O
+	O5504LOiVGPWpBpKSoEFenRN2MdM0pA9XgpC5ErEGJnaEYlc0rF83kKo/jncbVEi
+	NuPI2VSgDOa1edt2G8TEonyUUI9VSY1yWVgiIVwh+ac=;
+Received: from [10.70.0.73] ([10.70.0.73:9095] helo�cess-mw.rightnowtech.com)
+	by rntmw123.rnmk.com (envelope-from <camara@mailmw.custhelp.com>)
+	(ecelerity 2.2.2.45 r(34222M)) with ESMTP
+	id 9F/2C-09063-4666B885; Fri, 27 Jan 2017 09:25:24 -0600
+Received: from webmw10.int.rightnowtech.com (localhost [127.0.0.1])
+	by access-mw.rightnowtech.com ("Mail Server") with SMTP id 092A922059
+	for <op.serenatadeamor+cuducos@gmail.com>; Fri, 27 Jan 2017 09:25:24 -0600 (CST)
+Content-Type: Multipart/Alternative;
+  boundary="------------Boundary-00=_BU2GLVC0000000000000"
+From: =?UTF-8?Q?"Câmara_dos_Deputados"_?    <camara@mailmw.custhelp.com>
+To: op.serenatadeamor+cuducos@gmail.com
+Date: Fri, 27 Jan 2017 13:25:23 -0200 (BRST)
+Subject: [Atendimento-CD] Esclarecimentos acerca de reembolso do Dep. Takayama
+MIME-Version: 1.0
+Message-Id: <RNTT.AvM0~wqpDv8S~Xb~GuAe~yJf9v8qTHX~oabHiTj~PP8O.1485530723.wDnEJcgb@webmw10.int.rightnowtech.com>
+
+
+--------------Boundary-00=_BU2GLVC0000000000000
+Content-Type: Text/Plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Recently you requested personal assistance from our on-line support  
+center. Below is a summary of your request and our response.
+We are continuing to work on your issue. To update your question with  
+additional information, click http://camara.custhelp.com/app/account/questions/detail/i_id/6443/track/AvM0~wqpDv8S~Xb~GuAe~yJf9v8qTC75Mv8L~zj~PP~C/
+
+---------------------------------------------------------------
+
+Subject
+---------------------------------------------------------------
+Esclarecimentos acerca de reembolso do Dep. Takayama
+
+Discussion Thread
+---------------------------------------------------------------
+Resposta By E-mail (Câmara dos Deputados) (27/01/2017 13:25)     
+Senhor(a) Eduardo Vicente Gonçalves,
+
+A Câmara dos Deputados agradece seu contato.
+
+Em atenção ao solicitado, esclarecemos que a sua demanda foi submetida ao Departamento de Finanças, Orçamento e Contabilidade (Defin) da Câmara dos Deputados, que entrou em contato com o parlamentar, mediante ofício, solicitando esclarecimentos sobre o fato apontado. Em resposta, o deputado prestou as informações constantes abaixo:
+
+"Após varredura nos documentos/arquivos, constantes no gabinete, verificamos que a despesa reembolsada (Nota Fiscal 4635), foi realizada de fato pelo próprio parlamentar, registra-se que na execução da despesa o parlamentar realizou outras refeições no mesmo estabelecimento, em períodos diferentes. Todavia, a assessoria solicitou documento comprobatório ao estabelecimento, o que na oportunidade, registrou de forma "genérica", na descrição do serviço.
+
+Destaca-se que a despesa cumpriu o estabelecido no Ato da Mesa nº 43, de 21/05/2009, apresentando legitimidade e autenticidade.
+
+Outrossim, comunico providências já foram adotadas para melhoria do sistema interno do gabinete, para que este fato não seja recorrente, pois estamos adotando medidas para maior clareza e divulgação das despesas reembolsadas, por meio de busca e acompanhamento dos documentos a serem lançados."
+ 
+Em caso de dúvidas, estamos à disposição.
+Atenciosamente,
+
+Câmara dos Deputados
+
+
+
+
+Demandante By Autosserviço (Eduardo Vicente Gonçalves) (10/01/2017 14:49)     
+Venho por meio deste solicitar esclarecimentos acerca de um reembolso efetuado a partir da CEAP. Trata-se de uma despesa do Deputado Takayama no dia 26/04/2014.
+
+O documento traz descrito o valor de R$ 170,55. O valor do restaurante, porém, é bem inferior para refeições para uma pessoa, sendo que há 1 ano atrás o preço era R$ 70/kg: https://www.hagah.com.br/fujii-cozinha-japonesa-sete-de-setembro-1865 Acho pouco provável que o deputado tenha consumido aproximadamente 2,5kg em uma refeição.
+
+Seguem links para apreciação:
+
+http://www.camara.gov.br/cota-parlamentar/documento?nuDeputadoId=1693&numMes=4&numAno=2014&despesa=13&idDocumento=4635
+
+
+
+Question Reference # 170110-000171
+       Date Created: 10/01/2017 14:49
+  Date Last Updated: 27/01/2017 13:25
+             Status: Recebida
+
+
+[---001:002585:32884---]
+
+--------------Boundary-00=_BU2GLVC0000000000000
+Content-Type: Text/Html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:rn="http://schemas.rightnow.com/crm/document">
+<head>
+<title>Modelo Câmara</title>
+
+<style type="text/css" xml:space="preserve">
+/*<![CDATA[*/
+P.MsoNormal {
+        MARGIN: 0px
+}
+LI.MsoNormal {
+        MARGIN: 0px
+}
+DIV.MsoNormal {
+        MARGIN: 0px
+}
+P.MsoListParagraph {
+        MARGIN-LEFT: 48px
+}
+LI.MsoListParagraph {
+        MARGIN-LEFT: 48px
+}
+DIV.MsoListParagraph {
+        MARGIN-LEFT: 48px
+}
+/*]]>*/
+</style>
+                                                                     
+</head>
+<body style="FONT-FAMILY: Segoe UI, Verdana, sans-serif">
+
+<div title="rntmarker_62510" id="rntmarker_62510_wDnEJcgb">
+
+<table style="FONT-FAMILY: Segoe UI, Verdana, sans-serif" cellspacing="0" cellpadding="0" width="610" align="center" border="1">
+<tbody>
+<tr>
+<td bgcolor="#F5F5F5">
+<table style="FONT-FAMILY: Segoe UI, Verdana, sans-serif" cellpadding="5" width="600" align="center">
+<tbody>
+<tr>
+<td bgcolor="#FFFFFF">
+<table>
+<tbody>
+<tr>
+<td valign="top">
+<p> </p>
+<p> </p>
+<p> </p>
+</td>
+<td valign="top" width="500">
+<p align="center"><img alt="Image" height="33" src="https://camara.custhelp.com/rnt/rnw/img/enduser/logocamara.jpg" width="285" /></p>
+
+<table style="FONT-FAMILY: Segoe UI, Verdana, sans-serif; WIDTH: 561px" cellpadding="1" width="561">
+<tbody>
+<tr>
+<td>
+<h1 style="FONT-SIZE: 12pt; FONT-FAMILY: Calibri; FONT-WEIGHT: normal; COLOR: #000000; MARGIN: 5px"><span style="FONT-SIZE: 12pt; FONT-FAMILY: Calibri; WHITE-SPACE: pre-wrap; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px">Esta notificação está sendo encaminhada para acompanhamento do atendimento à demanda a seguir.</span></h1>
+<p style="FONT-SIZE: 12pt; FONT-FAMILY: Calibri; FONT-WEIGHT: normal; COLOR: #000000; MARGIN: 5px"></p>
+<h1 style="FONT-SIZE: 12pt; FONT-FAMILY: Calibri; FONT-WEIGHT: normal; COLOR: #000000; MARGIN: 5px">Identificação da demanda:</h1>
+<p style="FONT-SIZE: 12pt; FONT-FAMILY: Calibri; FONT-WEIGHT: normal; COLOR: #000000; MARGIN: 5px">Protocolo: 170110-000171</p>
+<p style="FONT-SIZE: 12pt; FONT-FAMILY: Calibri; FONT-WEIGHT: normal; COLOR: #000000; MARGIN: 5px">Título:<span style="HEIGHT: 19px; WIDTH: 500px">  Esclarecimentos acerca de reembolso do Dep. Takayama</span></p>
+</td>
+</tr>
+<tr>
+<td>
+
+<div style="font-size: 12pt; border: 1px solid #CCC; background-color: #EEE">Resposta Por E-mail (Câmara dos Deputados) <span style="FONT-SIZE: 10pt; COLOR: #4f4f4f">(27/01/2017 13:25)</span></div>
+<div style="font-size: 12pt; border: 1px solid #BBB;">
+<div style="margin:0px 0px 8px 0px;"><span style="font-family:Arial;font-size:12px;">Senhor(a) Eduardo Vicente Gonçalves,</span><br />
+<br />
+<span style="font-family:Arial;font-size:12px;">A Câmara dos Deputados agradece seu contato.</span><br />
+<br />
+<span style="font-family:Arial;font-size:12px;">Em atenção ao solicitado, esclarecemos que a sua demanda foi submetida ao Departamento de Finanças, Orçamento e Contabilidade (Defin) da Câmara dos Deputados, que entrou em contato com o parlamentar, mediante ofício, solicitando esclarecimentos sobre o fato apontado. Em resposta, o deputado prestou as informações constantes abaixo:</span><br />
+<br />
+<span style="font-style:italic;font-family:Arial;font-size:10px;">&quot;Após varredura nos documentos/arquivos, constantes no gabinete, verificamos que a despesa reembolsada (Nota Fiscal 4635), foi realizada de fato pelo próprio parlamentar, registra-se que na execução da despesa o parlamentar realizou outras refeições no mesmo estabelecimento, em períodos diferentes. Todavia, a assessoria solicitou documento comprobatório ao estabelecimento, o que na oportunidade, registrou de forma &quot;genérica&quot;, na descrição do serviço.</span><br />
+<br />
+<span style="font-style:italic;font-family:Arial;font-size:10px;">Destaca-se que a despesa cumpriu o estabelecido no Ato da Mesa nº 43, de 21/05/2009, apresentando legitimidade e autenticidade.</span><br />
+<br />
+<span style="font-style:italic;font-family:Arial;font-size:10px;">Outrossim, comunico providências já foram adotadas para melhoria do sistema interno do gabinete, para que este fato não seja recorrente, pois estamos adotando medidas para maior clareza e divulgação das despesas reembolsadas, por meio de busca e acompanhamento dos documentos a serem lançados.&quot;</span></div>
+<div style="margin:0px 0px 8px 0px;"><span style="font-family:Arial;font-size:12px;">&nbsp;</span><br />
+<span style="font-family:Arial;font-size:12px;">Em caso de dúvidas, estamos à disposição.</span><br />
+<span style="font-family:Arial;font-size:12px;">Atenciosamente,</span><br />
+<br />
+<span style="font-family:Arial;font-size:12px;">Câmara dos Deputados</span><br />
+<br /></div>
+
+
+</div>
+
+
+
+
+
+
+
+<div style="font-size: 12pt; border: 1px solid #CCC; background-color: #CCC">Demandante Por Autosserviço (Eduardo Vicente Gonçalves) <span style="FONT-SIZE: 10pt; COLOR: #4f4f4f">(10/01/2017 14:49)</span></div>
+<div style="font-size: 12pt; border: 1px solid #BBB; background-color: #FFF">
+Venho por meio deste solicitar esclarecimentos acerca de um reembolso efetuado a partir da CEAP. Trata-se de uma despesa do Deputado Takayama no dia 26/04/2014.<br /><br />O documento traz descrito o valor de R$ 170,55. O valor do restaurante, porém, é bem inferior para refeições para uma pessoa, sendo que há 1 ano atrás o preço era R$ 70/kg: <a href="https://www.hagah.com.br/fujii-cozinha-japonesa-sete-de-setembro-1865" target="_blank">https://www.hagah.com.br/fujii-cozinha-japonesa-sete-de-setembro-1865</a> Acho pouco provável que o deputado tenha consumido aproximadamente 2,5kg em uma refeição.<br /><br />Seguem links para apreciação:<br /><br /><a href="http://www.camara.gov.br/cota-parlamentar/documento?nuDeputadoId=1693&numMes=4&numAno=2014&despesa=13&idDocumento=4635"
+target="_blank">http://www.camara.gov.br/cota-parlamentar/documento?nuDeputadoId=1693&numMes=4&numAno=2014&despesa=13&idDocumento=4635</a>
+</div>
+
+
+
+
+
+
+
+</td>
+</tr>
+</tbody>
+</table>
+<p style="FONT-SIZE: 12pt; FONT-FAMILY: Calibri; MARGIN: 0px; LINE-HEIGHT: 18px"></p>
+<p style="FONT-SIZE: 12pt; FONT-FAMILY: Calibri; FONT-WEIGHT: normal; MARGIN: 0px; LINE-HEIGHT: 18px">Por favor, não responda a este e-mail.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<img alt="" height="1" width="1" style="display: none" src="http://camara.custhelp.com/rd/AvM0~wqpDv8S~Xb~GuAe~yJf9v8qTC75Mv8L~zj~PP~C.gif"/> <div id="checksum" align="right"><span style="font-size: 1pt">
+[---001:002136:62510---]
+</span></div>
+</div>
+</body>
+</html>
+
+--------------Boundary-00=_BU2GLVC0000000000000--
+

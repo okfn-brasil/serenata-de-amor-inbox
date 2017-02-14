@@ -1,0 +1,162 @@
+Delivered-To: op.serenatadeamor+bruno@gmail.com
+Received: by 10.12.154.71 with SMTP id q7csp1877405qvd;
+        Wed, 11 Jan 2017 10:32:25 -0800 (PST)
+X-Received: by 10.107.34.139 with SMTP id i133mr9596403ioi.54.1484159545139;
+        Wed, 11 Jan 2017 10:32:25 -0800 (PST)
+Return-Path: <camara@mailmw.custhelp.com>
+Received: from mailgwmw03.rightnowtech.com (mailgwmw03.rightnowtech.com. [74.117.203.123])
+        by mx.google.com with ESMTPS id l140si5784474iol.113.2017.01.11.10.32.25
+        for <op.serenatadeamor+bruno@gmail.com>
+        (version=TLS1 cipher�S128-SHA bits8/128);
+        Wed, 11 Jan 2017 10:32:25 -0800 (PST)
+Received-SPF: pass (google.com: domain of camara@mailmw.custhelp.com designates 74.117.203.123 as permitted sender) client-ipt.117.203.123;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@mailmw.custhelp.com;
+       spf=pass (google.com: domain of camara@mailmw.custhelp.com designates 74.117.203.123 as permitted sender) smtp.mailfrom�mara@mailmw.custhelp.com;
+       dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=custhelp.com
+Return-Path: <camara@mailmw.custhelp.com>
+DomainKey-Signature: q=dns; a=rsa-sha1; c=nofws;
+	s=dkrnt; d=mailmw.custhelp.com;
+	h=DKIM-Signature:Received:Content-Type:From:To:Date:Subject:MIME-Version:Message-Id;
+	b=R7DPibHlJbCBEjYasG94Tizr9cgFFn5BV2IeerxURI0sqZjW+vH0yFe/5uklVSx/
+	gyTb/0oUGljVJJzxyNPQyOIB9n5Y5ra4wINPRwbGdBSo/HutqKb+IDsB0LN0Ogcp
+	xMvZ33IXZRul8dQKDd1z0OkFd1Gmma8xvPFji77fhz8DKIM-Signature: v=1; a=rsa-sha1; d=mailmw.custhelp.com; s=dkimrnt; c=simple/simple;
+	q=dns/txt; i=@mailmw.custhelp.com; t84159544;
+	h=From:Subject:Date:To:MIME-Version:Content-Type;
+	bh=rU8AqwS39hlNMeUi7pKoSe3N9Vg=;
+	b=hoELZpJe777G3TJd3iLJ+Z6dszaVQDyEd607gaU2wQDWtAHHr10WDxSS/03BdKVr
+	LyX9YoYfNYiphqFJvD5QD8sqlOBao9TlZ+GtSRKAKG/I1CgjuwyQNuzlUkJVKqmF
+	VfATgK2yMmLmFhK1FO6cMl8ONhfPyuZzPNMaRaaZHiI=;
+Received: from [10.70.0.71] ([10.70.0.71:48934] helo�cess-mw.rightnowtech.com)
+	by rntmw125.rnmk.com (envelope-from <camara@mailmw.custhelp.com>)
+	(ecelerity 2.2.2.45 r(34222M)) with ESMTP
+	id C9/13-20155-83A76785; Wed, 11 Jan 2017 12:32:24 -0600
+Received: from webmw08.int.rightnowtech.com (localhost [127.0.0.1])
+	by access-mw.rightnowtech.com ("Mail Server") with SMTP id D4A9828047
+	for <op.serenatadeamor+bruno@gmail.com>; Wed, 11 Jan 2017 12:32:24 -0600 (CST)
+Content-Type: Multipart/Alternative;
+  boundary="------------Boundary-00=_ZTOMVA40000000000000"
+From: =?UTF-8?Q?"Câmara_dos_Deputados"_?    <camara@mailmw.custhelp.com>
+To: op.serenatadeamor+bruno@gmail.com
+Date: Wed, 11 Jan 2017 16:32:23 -0200 (BRST)
+Subject: =?UTF-8?Q?[Atendimento-CD]_Confirmação_de_cadastro_de_demanda?MIME-Version: 1.0
+Message-Id: <RNTT.AvMy~wotDv8S~Vb~GgAe~yJl9v8qAo3~JzJ56zj~PP_w.1484159543.wDnEJcgb@webmw08.int.rightnowtech.com>
+
+
+--------------Boundary-00=_ZTOMVA40000000000000
+Content-Type: Text/Plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Your question has been received. You should expect a response from us  
+within 24 hours.
+
+To update your question with additional information, click
+http://camara.custhelp.com/app/account/questions/detail/i_id/6761/track/AvMy~wotDv8S~Vb~GgAe~yJl9v8qAi75Mv_I~zj~PP9B/
+
+---------------------------------------------------------------
+
+Subject
+---------------------------------------------------------------
+Venho por meio deste solicitar esclarecimentos acerca de um reembolso efetuado...
+
+Question Reference # 170111-000200
+       Date Created: 11/01/2017 16:32
+  Date Last Updated: 11/01/2017 16:32
+             Status: Recebida
+
+
+[---001:000548:45769---]
+
+--------------Boundary-00=_ZTOMVA40000000000000
+Content-Type: Text/Html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:rn="http://schemas.rightnow.com/crm/document">
+<head>
+<title>Modelo Câmara</title>
+
+<style type="text/css" xml:space="preserve">
+/*<![CDATA[*/
+P.MsoNormal {
+        MARGIN: 0px
+}
+LI.MsoNormal {
+        MARGIN: 0px
+}
+DIV.MsoNormal {
+        MARGIN: 0px
+}
+P.MsoListParagraph {
+        MARGIN-LEFT: 48px
+}
+LI.MsoListParagraph {
+        MARGIN-LEFT: 48px
+}
+DIV.MsoListParagraph {
+        MARGIN-LEFT: 48px
+}
+/*]]>*/
+</style>
+                                                                     
+</head>
+<body style="FONT-FAMILY: Segoe UI, Verdana, sans-serif">
+
+<div title="rntmarker_23391" id="rntmarker_23391_wDnEJcgb">
+
+<table style="FONT-FAMILY: Segoe UI, Verdana, sans-serif" cellspacing="0" cellpadding="0" width="610" align="center" border="1">
+<tbody>
+<tr>
+<td bgcolor="#F5F5F5">
+<table style="FONT-FAMILY: Segoe UI, Verdana, sans-serif" cellpadding="5" width="600" align="center">
+<tbody>
+<tr>
+<td bgcolor="#FFFFFF">
+<table>
+<tbody>
+<tr>
+<td valign="top">
+<p> </p>
+<p> </p>
+<p> </p>
+</td>
+<td valign="top" width="500">
+<p align="center"><img alt="Image" height="33" src="https://camara.custhelp.com/rnt/rnw/img/enduser/logocamara.jpg" width="285" /></p>
+
+<table style="FONT-FAMILY: Segoe UI, Verdana, sans-serif; WIDTH: 556px" cellpadding="1" width="556">
+<tbody>
+<tr>
+<td style="FONT-FAMILY: Verdana">
+<p style="FONT-FAMILY: Verdana">Senhor (a) <span style="FONT-WEIGHT: bold">Bruno Quadros</span>,</p>
+<p style="FONT-FAMILY: Verdana">Sua mensagem foi recebida no Prisma* com sucesso.</p>
+<p style="FONT-FAMILY: Verdana">Data: 11/01/2017 16:32</p>
+<p style="FONT-FAMILY: Verdana">Protocolo: 170111-000200</p>
+
+Para acompanhar seu atendimento, <a href="http://camara.custhelp.com/rd?1=AvMy~wotDv8S~Vb~GgAe~yJl9v8qAi75Mv_I~zj~PP9B&amp;2=2&amp;6=1&amp;7=6761">clique aqui.</a>
+</td>
+</tr>
+</tbody>
+</table>
+<p><span style="FONT-SIZE: 10pt; FONT-FAMILY: Verdana; WHITE-SPACE: pre-wrap; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px">*Novo sistema da Câmara dos Deputados para atendimento às demandas de pesquisa e informação.</span></p>
+<p style="FONT-SIZE: 12pt; FONT-FAMILY: Verdana">Por favor, não responda a este e-mail.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<img alt="" height="1" width="1" style="display: none" src="http://camara.custhelp.com/rd/AvMy~wotDv8S~Vb~GgAe~yJl9v8qAi75Mv_I~zj~PP9B.gif"/> <div id="checksum" align="right"><span style="font-size: 1pt">
+[---001:000261:23391---]
+</span></div>
+</div>
+</body>
+</html>
+
+--------------Boundary-00=_ZTOMVA40000000000000--
+

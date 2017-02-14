@@ -1,0 +1,286 @@
+Delivered-To: op.serenatadeamor+irio@gmail.com
+Received: by 10.202.96.66 with SMTP id u63csp1054272oib;
+        Mon, 13 Feb 2017 04:22:51 -0800 (PST)
+X-Received: by 10.107.46.160 with SMTP id u32mr20825058iou.72.1486988571294;
+        Mon, 13 Feb 2017 04:22:51 -0800 (PST)
+Return-Path: <camara@mailmw.custhelp.com>
+Received: from mailgwmw04.rightnowtech.com (mailgwmw04.rightnowtech.com. [74.117.203.124])
+        by mx.google.com with ESMTPS id f4si3453300ith.40.2017.02.13.04.22.51
+        for <op.serenatadeamor+irio@gmail.com>
+        (version=TLS1 cipher�S128-SHA bits8/128);
+        Mon, 13 Feb 2017 04:22:51 -0800 (PST)
+Received-SPF: pass (google.com: domain of camara@mailmw.custhelp.com designates 74.117.203.124 as permitted sender) client-ipt.117.203.124;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@mailmw.custhelp.com;
+       spf=pass (google.com: domain of camara@mailmw.custhelp.com designates 74.117.203.124 as permitted sender) smtp.mailfrom�mara@mailmw.custhelp.com;
+       dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=custhelp.com
+Return-Path: <camara@mailmw.custhelp.com>
+DomainKey-Signature: q=dns; a=rsa-sha1; c=nofws;
+	s=dkrnt; d=mailmw.custhelp.com;
+	h=DKIM-Signature:Received:Content-Type:From:To:Date:Subject:MIME-Version:Message-Id;
+	b�UpiBs0GyMCqp7x7rch8JOKFI2ivzRTwfzZPIIooFVIqyF4GAq/5T6acDBjnD1J
+	LL3SvJqqhTLCr6m/WzD5RuJQH3a1QMKUlJeq7rx253ZzwcpM/Z7X6vaAOGjX/bcB
+	qI9jL1maR4FJlBKCsHHKH4clRDZkGQoySdi6gl9X2lQDKIM-Signature: v=1; a=rsa-sha1; d=mailmw.custhelp.com; s=dkimrnt; c=simple/simple;
+	q=dns/txt; i=@mailmw.custhelp.com; t86988570;
+	h=From:Subject:Date:To:MIME-Version:Content-Type;
+	bh=+/X1bkHgQxVbGXqcJ/jf7VJ/xPo=;
+	b=ALL8jeIAaYadN8FA93lU9H+U1b/HQk5AGnXekuyxs+asAi2StPITP0lLHao5E89E
+	7VqyQssATLy2zBkR34YS4lhy/CMWsj+gDpmxGtet3Zz7u9UwLh5cKkcVj8kAZkK+
+	TdRkMsYQ5nL4bmYr2CZ4IZLDS3B+3Tv6+iCYOw1++Hg=;
+Received: from [10.70.0.65] ([10.70.0.65:37917] helo�cess-mw.rightnowtech.com)
+	by rntmw125.rnmk.com (envelope-from <camara@mailmw.custhelp.com>)
+	(ecelerity 2.2.2.45 r(34222M)) with ESMTP
+	id 35/E4-32485-A15A1A85; Mon, 13 Feb 2017 06:22:50 -0600
+Received: from webmw02.int.rightnowtech.com (localhost [127.0.0.1])
+	by access-mw.rightnowtech.com ("Mail Server") with SMTP id 222A11D541A
+	for <op.serenatadeamor+irio@gmail.com>; Mon, 13 Feb 2017 06:22:50 -0600 (CST)
+Content-Type: Multipart/Alternative;
+  boundary="------------Boundary-00=_2QBBVA40000000000000"
+From: =?UTF-8?Q?"Câmara_dos_Deputados"_?    <camara@mailmw.custhelp.com>
+To: op.serenatadeamor+irio@gmail.com
+Date: Mon, 13 Feb 2017 10:22:50 -0200 (BRST)
+Subject: =?UTF-8?Q?Esclarecimentos_acerca_de_reembolso_efetuado_pelo_Dep._Mauro_P?    =?UTF-8?Q?ereira_[N°_de_Protocolo:__170110-000259]?MIME-Version: 1.0
+Message-Id: <RNTT.AvM0~woFDv8S~ZD~GlAe~yJj9P8qT4D~yo9tRjj~PP_k.1486988569.wDnEJcgb@webmw02.int.rightnowtech.com>
+
+
+--------------Boundary-00=_2QBBVA40000000000000
+Content-Type: Text/Plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Recently you requested personal assistance from our on-line support  
+center. Below is a summary of your request and our response.
+
+If this issue is not resolved to your satisfaction, you may reopen it within the next 7 days.
+
+Thank you for allowing us to be of service to you.
+To access your question from our support site, click http://camara.custhelp.com/app/account/questions/detail/i_id/6525/track/AvM0~woFDv8S~ZD~GlAe~yJj9P8qTy75Mv_l~zj~PP9s/
+
+---------------------------------------------------------------
+
+Subject
+---------------------------------------------------------------
+Esclarecimentos acerca de reembolso efetuado pelo Dep. Mauro Pereira
+
+Discussion Thread
+---------------------------------------------------------------
+Resposta By E-mail (Câmara dos Deputados) (13/02/2017 10:22)     
+Senhor(a) Irio Irineu Musskopf Junior,
+
+A Câmara dos Deputados agradece seu contato.
+
+Em atenção ao solicitado, esclarecemos que o Departamento de Finanças, Orçamento e Contabilidade da Câmara dos Deputados informa o que se segue: 
+ 
+"Tendo em vista a dúvida suscitada pelo(a) requerente da mensagem supracitada, quanto à regularidade do ressarcimento, o parlamentar entrou em contato com esta Coordenação e procedeu à devolução do valor de R$ 37,52, referente à despesa ressarcida por meio da Cota para o Exercício da Atividade Parlamentar – CEAP, objeto do questionamento.
+Ressaltamos que já foram efetuados os devidos ajustes no sistema de Controle da Cota para o Exercício da Atividade Parlamentar e Portal Transparência da Câmara dos Deputados na internet."
+ 
+Em caso de dúvidas, estamos à disposição.
+
+Atenciosamente,
+
+Câmara dos Deputados
+
+
+Resposta By E-mail (Câmara dos Deputados) (30/01/2017 10:12)     
+Senhor(a) Irio Irineu Musskopf Junior,
+
+A Câmara dos Deputados agradece seu contato.
+
+Em atenção ao solicitado, informamos que o Departamento de Finanças, Orçamento e Contabilidade (Defin) está procedendo a uma averiguação dos registros do sistema de controle da Cota para o Exercício da Atividade Parlamentar e da documentação reembolsada, referentes ao caso relatado pelo requerente. Esse Departamento está adotando as medidas necessárias junto ao gabinete parlamentar para o esclarecimento da situação ou eventual restituição de valor reembolsado.
+Ressaltamos, por oportuno, que assim que obtivermos a resposta do parlamentar sobre o caso relatado, encaminharemos os esclarecimentos por este mesmo canal de atendimento.
+Em caso de dúvidas, continuamos à disposição.
+
+Atenciosamente,
+
+Câmara dos Deputados
+ 
+ 
+
+
+Demandante By Autosserviço (Irio Irineu Musskopf Junior) (10/01/2017 16:46)     
+Venho por meio deste solicitar esclarecimentos acerca de um reembolso efetuado a partir da CEAP. Trata-se de uma despesa do Deputado Mauro Pereira no dia 10/05/2016.
+
+O gasto foi feito em Porto Alegre - RS, num dia onde o deputado fez diversos discursos presencialmente na Câmara, em Brasília. Tendo em vista que a CEAP, de acordo com Ato da Mesa, é de usufruto exclusivo do parlamentar no que diz respeito a fornecimento de alimentação, solicito uma devolutiva a este pedido.
+
+Seguem links para apreciação:
+
+http://www.camara.gov.br/cota-parlamentar/documento?nuDeputadoId=3095&numMes=5&numAno=2016&despesa=13&idDocumento=124208
+http://www.camara.gov.br/cota-parlamentar/documentos/publ/3095/2016/5997195.pdf
+http://www.camara.leg.br/sitcamaraws/SessoesReunioes.asmx/ListarDiscursosPlenario?dataIni=10/05/2016&dataFim=10/05/2016&codigoSessao=&parteNomeParlamentar=Mauro%20pereira&siglaPartido=&siglaUF=
+
+
+
+Question Reference # 170110-000259
+       Date Created: 10/01/2017 16:46
+  Date Last Updated: 13/02/2017 10:22
+             Status: Respondida
+
+
+[---001:003203:25868---]
+
+--------------Boundary-00=_2QBBVA40000000000000
+Content-Type: Text/Html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:rn="http://schemas.rightnow.com/crm/document">
+<head>
+<title>Modelo Câmara</title>
+
+<style type="text/css" xml:space="preserve">
+/*<![CDATA[*/
+P.MsoNormal {
+        MARGIN: 0px
+}
+LI.MsoNormal {
+        MARGIN: 0px
+}
+DIV.MsoNormal {
+        MARGIN: 0px
+}
+P.MsoListParagraph {
+        MARGIN-LEFT: 48px
+}
+LI.MsoListParagraph {
+        MARGIN-LEFT: 48px
+}
+DIV.MsoListParagraph {
+        MARGIN-LEFT: 48px
+}
+/*]]>*/
+</style>
+                                                                     
+</head>
+<body style="FONT-FAMILY: Segoe UI, Verdana, sans-serif">
+
+<div title="rntmarker_52247" id="rntmarker_52247_wDnEJcgb">
+
+<table style="FONT-FAMILY: Segoe UI, Verdana, sans-serif" cellspacing="0" cellpadding="0" width="610" align="center" border="1">
+<tbody>
+<tr>
+<td bgcolor="#F5F5F5">
+<table style="FONT-FAMILY: Segoe UI, Verdana, sans-serif" cellpadding="5" width="600" align="center">
+<tbody>
+<tr>
+<td bgcolor="#FFFFFF">
+<table>
+<tbody>
+<tr>
+<td valign="top">
+<p> </p>
+<p> </p>
+<p> </p>
+</td>
+<td valign="top" width="500">
+<p align="center"><img alt="Image" height="33" src="https://camara.custhelp.com/rnt/rnw/img/enduser/logocamara.jpg" width="285" /></p>
+
+<table style="FONT-FAMILY: Segoe UI, Verdana, sans-serif; WIDTH: 561px" cellpadding="1" width="561">
+<tbody>
+<tr>
+<td>
+<h1 style="FONT-SIZE: 12pt; FONT-FAMILY: Calibri; FONT-WEIGHT: normal; COLOR: #000000; MARGIN: 5px"></h1>
+
+<h1 style="FONT-SIZE: 12pt; FONT-FAMILY: Calibri; FONT-WEIGHT: normal; COLOR: #000000; MARGIN: 5px"></h1>
+Esta notificação está sendo encaminhada para acompanhamento do atendimento à demanda a seguir, encaminhada por meio do Fale Conosco da Câmara dos Deputados.
+<p style="FONT-SIZE: 12pt; FONT-FAMILY: Calibri; FONT-WEIGHT: normal; COLOR: #000000; MARGIN: 5px"></p>
+<h1 style="FONT-SIZE: 12pt; FONT-FAMILY: Calibri; FONT-WEIGHT: normal; COLOR: #000000; MARGIN: 5px">Identificação da demanda:</h1>
+<p style="FONT-SIZE: 12pt; FONT-FAMILY: Calibri; FONT-WEIGHT: normal; COLOR: #000000; MARGIN: 5px">Protocolo: 170110-000259</p>
+<p style="FONT-SIZE: 12pt; FONT-FAMILY: Calibri; FONT-WEIGHT: normal; COLOR: #000000; MARGIN: 5px">Título:<span style="HEIGHT: 19px; WIDTH: 500px">  Esclarecimentos acerca de reembolso efetuado pelo Dep. Mauro Pereira</span></p>
+<p style="FONT-SIZE: 12pt; FONT-FAMILY: Calibri; FONT-WEIGHT: normal; COLOR: #000000; MARGIN: 5px"></p>
+</td>
+</tr>
+<tr>
+<td>
+
+<div style="font-size: 12pt; border: 1px solid #CCC; background-color: #EEE">Resposta Por E-mail (Câmara dos Deputados) <span style="FONT-SIZE: 10pt; COLOR: #4f4f4f">(13/02/2017 10:22)</span></div>
+<div style="font-size: 12pt; border: 1px solid #BBB;">
+<div><span style="font-family:arial;font-size:12px;">Senhor(a) Irio Irineu Musskopf Junior,</span><br />
+<br />
+<span style="font-family:arial;font-size:12px;">A Câmara dos Deputados agradece seu contato.</span><br />
+<br />
+<span style="font-family:arial;font-size:12px;">Em atenção ao solicitado,</span><span style="font-family:arial;font-size:12px;">&nbsp;</span><span style="font-family:arial;font-size:12px;">esclarecemos que o Departamento de Finanças, Orçamento e Contabilidade da Câmara dos Deputados informa o que se segue:</span><span style="font-family:arial;font-size:12px;">&nbsp;</span></div>
+<div><span style="font-family:arial;font-size:12px;">&nbsp;</span></div>
+<div><span style="font-family:arial;font-size:12px;">&quot;Tendo em vista a dúvida suscitada pelo(a) requerente da mensagem supracitada, quanto à regularidade do ressarcimento, o parlamentar entrou em contato com esta Coordenação e procedeu à devolução do valor de R$ 37,52, referente à despesa ressarcida por meio da Cota para o Exercício da Atividade Parlamentar – CEAP, objeto do questionamento.</span></div>
+<div><span style="font-family:arial;font-size:12px;">Ressaltamos que já foram efetuados os devidos ajustes no sistema de Controle da Cota para o Exercício da Atividade Parlamentar e Portal Transparência da Câmara dos Deputados na internet.&quot;</span></div>
+<div><span style="font-family:arial;font-size:12px;">&nbsp;</span></div>
+<div><span style="font-family:arial;font-size:12px;">Em caso de dúvidas, estamos à disposição.</span><br />
+<br />
+<span style="font-family:arial;font-size:12px;">Atenciosamente,</span><br />
+<br />
+<span style="font-family:arial;font-size:12px;">Câmara dos Deputados</span></div>
+
+
+</div>
+
+
+
+
+
+
+
+<div style="font-size: 12pt; border: 1px solid #CCC; background-color: #EEE">Resposta Por E-mail (Câmara dos Deputados) <span style="FONT-SIZE: 10pt; COLOR: #4f4f4f">(30/01/2017 10:12)</span></div>
+<div style="font-size: 12pt; border: 1px solid #BBB;">
+<div><span style="font-family:arial;">Senhor(a) Irio Irineu Musskopf Junior,</span><br />
+<br />
+<span style="font-family:arial;">A Câmara dos Deputados agradece seu contato.</span><br />
+<br />
+<span style="font-family:Arial;">Em atenção ao solicitado, informamos que o Departamento de Finanças, Orçamento e Contabilidade (Defin) está procedendo a uma averiguação dos registros do sistema de controle da Cota para o Exercício da Atividade Parlamentar e da documentação reembolsada, referentes ao caso relatado pelo requerente. Esse Departamento está adotando as medidas necessárias junto ao gabinete parlamentar para o esclarecimento da situação ou eventual restituição de valor reembolsado.</span></div>
+<div style="margin:0px 0px 1067px 0px;text-align:Justify;"><span style="font-family:Arial;font-size:12px;">Ressaltamos, por oportuno, que assim que obtivermos a resposta do parlamentar sobre o caso relatado, encaminharemos os esclarecimentos por este mesmo canal de atendimento.</span></div>
+<div style="margin:0px 0px 1067px 0px;text-align:Justify;"><span style="font-family:Arial;font-size:12px;">Em caso de dúvidas, continuamos à disposição.</span><br />
+<br />
+<span style="font-family:arial;font-size:12px;">Atenciosamente,</span><br />
+<br />
+<span style="font-family:arial;font-size:12px;">Câmara dos Deputados</span></div>
+<div>
+<div><span>&nbsp;</span></div>
+</div>
+<div>&nbsp;</div>
+
+
+</div>
+
+
+
+
+
+
+
+<div style="font-size: 12pt; border: 1px solid #CCC; background-color: #CCC">Demandante Por Autosserviço (Irio Irineu Musskopf Junior) <span style="FONT-SIZE: 10pt; COLOR: #4f4f4f">(10/01/2017 16:46)</span></div>
+<div style="font-size: 12pt; border: 1px solid #BBB; background-color: #FFF">
+Venho por meio deste solicitar esclarecimentos acerca de um reembolso efetuado a partir da CEAP. Trata-se de uma despesa do Deputado Mauro Pereira no dia 10/05/2016.<br /><br />O gasto foi feito em Porto Alegre - RS, num dia onde o deputado fez diversos discursos presencialmente na Câmara, em Brasília. Tendo em vista que a CEAP, de acordo com Ato da Mesa, é de usufruto exclusivo do parlamentar no que diz respeito a fornecimento de alimentação, solicito uma devolutiva a este pedido.<br /><br />Seguem links para apreciação:<br /><br /><a href="http://www.camara.gov.br/cota-parlamentar/documento?nuDeputadoId=3095&numMes=5&numAno=2016&despesa=13&idDocumento=124208"
+target="_blank">http://www.camara.gov.br/cota-parlamentar/documento?nuDeputadoId=3095&numMes=5&numAno=2016&despesa=13&idDocumento=124208</a><br /><a href="http://www.camara.gov.br/cota-parlamentar/documentos/publ/3095/2016/5997195.pdf" target="_blank">http://www.camara.gov.br/cota-parlamentar/documentos/publ/3095/2016/5997195.pdf</a><br /><a href="http://www.camara.leg.br/sitcamaraws/SessoesReunioes.asmx/ListarDiscursosPlenario?dataIni=10/05/2016&dataFim=10/05/2016&codigoSessao=&parteNomeParlamentar=Mauro%20pereira&siglaPartido=&siglaUF=" target="_blank">http://www.camara.leg.br/sitcamaraws/SessoesReunioes.asmx/ListarDiscursosPlenario?dataIni=10/05/2016&dataFim=10/05/2016&codigoSessao=&parteNomeParlamentar=Mauro%20pereira&siglaPartido=&siglaUF=</a>
+</div>
+
+
+
+
+
+
+
+</td>
+</tr>
+</tbody>
+</table>
+<p style="FONT-SIZE: 12pt; FONT-FAMILY: Calibri; MARGIN: 0px; LINE-HEIGHT: 18px"></p>
+<p style="FONT-SIZE: 12pt; FONT-FAMILY: Calibri; FONT-WEIGHT: normal; MARGIN: 0px; LINE-HEIGHT: 18px">Por favor, não responda a este e-mail.</p>
+
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<img alt="" height="1" width="1" style="display: none" src="http://camara.custhelp.com/rd/AvM0~woFDv8S~ZD~GlAe~yJj9P8qTy75Mv_l~zj~PP9s.gif"/> <div id="checksum" align="right"><span style="font-size: 1pt">
+[---001:002730:52247---]
+</span></div>
+</div>
+</body>
+</html>
+
+--------------Boundary-00=_2QBBVA40000000000000--
+

@@ -1,0 +1,246 @@
+Delivered-To: op.serenatadeamor+ana@gmail.com
+Received: by 10.12.154.7 with SMTP id p7csp1493153qvd;
+        Mon, 30 Jan 2017 08:17:38 -0800 (PST)
+X-Received: by 10.107.186.134 with SMTP id k128mr19245850iof.71.1485793058809;
+        Mon, 30 Jan 2017 08:17:38 -0800 (PST)
+Return-Path: <camara@mailmw.custhelp.com>
+Received: from mailgwmw04.rightnowtech.com (mailgwmw04.rightnowtech.com. [74.117.203.124])
+        by mx.google.com with ESMTPS id j102si11111162ioo.40.2017.01.30.08.17.38
+        for <op.serenatadeamor+ana@gmail.com>
+        (version=TLS1 cipher�S128-SHA bits8/128);
+        Mon, 30 Jan 2017 08:17:38 -0800 (PST)
+Received-SPF: pass (google.com: domain of camara@mailmw.custhelp.com designates 74.117.203.124 as permitted sender) client-ipt.117.203.124;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@mailmw.custhelp.com;
+       spf=pass (google.com: domain of camara@mailmw.custhelp.com designates 74.117.203.124 as permitted sender) smtp.mailfrom�mara@mailmw.custhelp.com;
+       dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=custhelp.com
+Return-Path: <camara@mailmw.custhelp.com>
+DomainKey-Signature: q=dns; a=rsa-sha1; c=nofws;
+	s=dkrnt; d=mailmw.custhelp.com;
+	h=DKIM-Signature:Received:Content-Type:From:To:Date:Subject:MIME-Version:Message-Id;
+	b=NmdMnjhlZ5rifZqvhyFk05VTv29vwskabZ10G0qwUOT93yB/mrOdn/X4GS9sDPbu
+	EtFPXhjOHHFaiAf5O7BQHxe9duvFAwH4XQj+wTB7m3E9X+cKTOvteIye/Cn+UznC
+	ODwFUO/9e/buBzvY5sLqjmYgiHL51F+yTuwamY2UCMkDKIM-Signature: v=1; a=rsa-sha1; d=mailmw.custhelp.com; s=dkimrnt; c=simple/simple;
+	q=dns/txt; i=@mailmw.custhelp.com; t85793058;
+	h=From:Subject:Date:To:MIME-Version:Content-Type;
+	bh=XJhBAKQfmHO7mYzqhvtNhKpAZaE=;
+	b=tIZ+HP0P4V02BTcPwUk/FUKEjrbmiM+cjXBk9+whTZ4wj/RYwSK317FYa+u/w9EN
+	ptUEq9uXF/KMXD2ElQFd0C25AUF4oXJY76684V1o1D+u1ryX2zzjUAP6HPn+b9le
+	uQrIr9h1YnZTTIZFuW3/5eBhCVs8pud2rkQe0O49UqY=;
+Received: from [10.70.0.66] ([10.70.0.66:43448] helo�cess-mw.rightnowtech.com)
+	by rntmw125.rnmk.com (envelope-from <camara@mailmw.custhelp.com>)
+	(ecelerity 2.2.2.45 r(34222M)) with ESMTP
+	id 8A/78-32485-2276F885; Mon, 30 Jan 2017 10:17:38 -0600
+Received: from webmw03.int.rightnowtech.com (localhost [127.0.0.1])
+	by access-mw.rightnowtech.com ("Mail Server") with SMTP id 87D031297C7
+	for <op.serenatadeamor+ana@gmail.com>; Mon, 30 Jan 2017 10:17:38 -0600 (CST)
+Content-Type: Multipart/Alternative;
+  boundary="------------Boundary-00=_E9PLVA40000000000000"
+From: =?UTF-8?Q?"Câmara_dos_Deputados"_?    <camara@mailmw.custhelp.com>
+To: op.serenatadeamor+ana@gmail.com
+Date: Mon, 30 Jan 2017 14:17:38 -0200 (BRST)
+Subject: [Atendimento-CD] Esclarecimentos acerca de reembolso do Dep. Augusto Coutinho
+MIME-Version: 1.0
+Message-Id: <RNTT.AvMo~wotDv8S~XL~GmMe~yJf9v8qIov~TkEhITj~PP~o.1485793058.wDnEJcgb@webmw03.int.rightnowtech.com>
+
+
+--------------Boundary-00=_E9PLVA40000000000000
+Content-Type: Text/Plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Recently you requested personal assistance from our on-line support  
+center. Below is a summary of your request and our response.
+We are continuing to work on your issue. To update your question with  
+additional information, click http://camara.custhelp.com/app/account/questions/detail/i_id/5993/track/AvMo~wotDv8S~XL~GmMe~yJf9v8qIi75Mv9X~zj~PP_e/
+
+---------------------------------------------------------------
+
+Subject
+---------------------------------------------------------------
+Esclarecimentos acerca de reembolso do Dep. Augusto Coutinho
+
+Discussion Thread
+---------------------------------------------------------------
+Resposta By E-mail (Câmara dos Deputados) (30/01/2017 14:17)     
+Senhor(a) Ana Maria Schwendler Ramos,
+ 
+A Câmara dos Deputados agradece seu contato.
+ 
+Em atenção ao solicitado, esclarecemos que a sua demanda foi submetida ao Departamento de Finanças, Orçamento e Contabilidade (Defin) da Câmara dos Deputados, que entrou em contato com o parlamentar, mediante ofício, solicitando esclarecimentos sobre o fato apontado.
+ 
+Em resposta, a assessoria do deputado prestou as seguintes informações:
+         
+          "O parlamentar Augusto Coutinho, por meio de sua assessoria, em resposta ao Ofício nº. 3/2017-COGEP, referente à solicitação da Sra. Ana Maria Schwendler Ramos, com base na Lei nº. 12.527/2011, Lei de Acesso à Informação, apresenta o seguinte esclarecimento.
+          A requerente questionou o gasto do parlamentar Augusto Coutinho, em 8/12/2015, com alimentação, no valor de R$ 364,50 (trezentos e sessenta e quatro reais e cinquenta centavos), devidamente ressarcido pela Câmara dos Deputados, afirmando que não há qualquer prato no restaurante que seja do valor apresentado na nota.
+          Em resposta ao questionamento da requerente, esclarecemos que a refeição no valor de R$ 364,50 (trezentos e sessenta e quatro reais e cinquenta centavos) foi composta por "couvert", entrada, salada, prato principal, águas, suco, café expresso e sobremesas, além de 10% do total da conta a título de serviços.
+          Acrescentamos que esse valor refere-se ao consumo exclusivo do parlamentar, e ainda, que, conforme pode ser observado no portal da Câmara dos Deputados, a média dos valores das refeições do deputado Augusto Coutinho é consideravelmente inferior ao desta Nota Fiscal questionada, e também que faz suas refeições em restaurantes apenas quando necessário."
+ 
+ 
+Em caso de dúvidas, estamos à disposição.
+ 
+Atenciosamente,
+ 
+Câmara dos Deputados
+ 
+
+
+Demandante By Autosserviço (Ana Maria Schwendler Ramos) (09/01/2017 11:41)     
+Venho por meio deste solicitar esclarecimentos acerca de um reembolso efetuado a partir da CEAP. Trata-se de uma despesa do Deputado Augusto Coutinho no dia 08/12/2015.
+
+O documento, no valor de R$364,50, o valor gasto não corresponde aos valores de consumo para uma pessoa no restaurante em questão. Tendo em vista que esse valor não corresponde ao valor do restaurante, solicito maiores esclarecimentos.
+
+Seguem links para apreciação:
+http://www.camara.gov.br/cota-parlamentar/documento?nuDeputadoId=2236&numMes=12&numAno=2015&despesa=13&idDocumento=23527
+https://www.camara.leg.br/cota-parlamentar/documentos/publ/2236/2015/5873222.pdf
+
+
+
+Question Reference # 170109-000083
+       Date Created: 09/01/2017 11:41
+  Date Last Updated: 30/01/2017 14:17
+             Status: Recebida
+
+
+[---001:002896:62678---]
+
+--------------Boundary-00=_E9PLVA40000000000000
+Content-Type: Text/Html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:rn="http://schemas.rightnow.com/crm/document">
+<head>
+<title>Modelo Câmara</title>
+
+<style type="text/css" xml:space="preserve">
+/*<![CDATA[*/
+P.MsoNormal {
+        MARGIN: 0px
+}
+LI.MsoNormal {
+        MARGIN: 0px
+}
+DIV.MsoNormal {
+        MARGIN: 0px
+}
+P.MsoListParagraph {
+        MARGIN-LEFT: 48px
+}
+LI.MsoListParagraph {
+        MARGIN-LEFT: 48px
+}
+DIV.MsoListParagraph {
+        MARGIN-LEFT: 48px
+}
+/*]]>*/
+</style>
+                                                                     
+</head>
+<body style="FONT-FAMILY: Segoe UI, Verdana, sans-serif">
+
+<div title="rntmarker_26676" id="rntmarker_26676_wDnEJcgb">
+
+<table style="FONT-FAMILY: Segoe UI, Verdana, sans-serif" cellspacing="0" cellpadding="0" width="610" align="center" border="1">
+<tbody>
+<tr>
+<td bgcolor="#F5F5F5">
+<table style="FONT-FAMILY: Segoe UI, Verdana, sans-serif" cellpadding="5" width="600" align="center">
+<tbody>
+<tr>
+<td bgcolor="#FFFFFF">
+<table>
+<tbody>
+<tr>
+<td valign="top">
+<p> </p>
+<p> </p>
+<p> </p>
+</td>
+<td valign="top" width="500">
+<p align="center"><img alt="Image" height="33" src="https://camara.custhelp.com/rnt/rnw/img/enduser/logocamara.jpg" width="285" /></p>
+
+<table style="FONT-FAMILY: Segoe UI, Verdana, sans-serif; WIDTH: 561px" cellpadding="1" width="561">
+<tbody>
+<tr>
+<td>
+<h1 style="FONT-SIZE: 12pt; FONT-FAMILY: Calibri; FONT-WEIGHT: normal; COLOR: #000000; MARGIN: 5px"><span style="FONT-SIZE: 12pt; FONT-FAMILY: Calibri; WHITE-SPACE: pre-wrap; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px">Esta notificação está sendo encaminhada para acompanhamento do atendimento à demanda a seguir.</span></h1>
+<p style="FONT-SIZE: 12pt; FONT-FAMILY: Calibri; FONT-WEIGHT: normal; COLOR: #000000; MARGIN: 5px"></p>
+<h1 style="FONT-SIZE: 12pt; FONT-FAMILY: Calibri; FONT-WEIGHT: normal; COLOR: #000000; MARGIN: 5px">Identificação da demanda:</h1>
+<p style="FONT-SIZE: 12pt; FONT-FAMILY: Calibri; FONT-WEIGHT: normal; COLOR: #000000; MARGIN: 5px">Protocolo: 170109-000083</p>
+<p style="FONT-SIZE: 12pt; FONT-FAMILY: Calibri; FONT-WEIGHT: normal; COLOR: #000000; MARGIN: 5px">Título:<span style="HEIGHT: 19px; WIDTH: 500px">  Esclarecimentos acerca de reembolso do Dep. Augusto Coutinho</span></p>
+</td>
+</tr>
+<tr>
+<td>
+
+<div style="font-size: 12pt; border: 1px solid #CCC; background-color: #EEE">Resposta Por E-mail (Câmara dos Deputados) <span style="FONT-SIZE: 10pt; COLOR: #4f4f4f">(30/01/2017 14:17)</span></div>
+<div style="font-size: 12pt; border: 1px solid #BBB;">
+<div><span style="font-family:Arial;font-size:12px;">Senhor(a) Ana Maria Schwendler Ramos,</span></div>
+<div><span style="font-family:Arial;font-size:12px;">&nbsp;</span></div>
+<div><span style="font-family:Arial;font-size:12px;">A Câmara dos Deputados agradece seu contato.</span></div>
+<div><span style="font-family:Arial;font-size:12px;">&nbsp;</span></div>
+<div><span style="font-family:Arial;font-size:12px;">Em atenção ao solicitado, esclarecemos que a sua demanda foi submetida ao Departamento de Finanças, Orçamento e Contabilidade (Defin) da Câmara dos Deputados, que entrou em contato com o parlamentar, mediante ofício, solicitando esclarecimentos sobre o fato apontado.</span></div>
+<div><span style="font-family:Arial;font-size:12px;">&nbsp;</span></div>
+<div><span style="font-family:Arial;font-size:12px;">Em resposta, a assessoria do deputado prestou as seguintes informações:</span></div>
+<div><span style="font-style:italic;font-family:Arial;font-size:10px;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></div>
+<div><span style="font-style:italic;font-family:Arial;font-size:10px;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &quot;O parlamentar Augusto Coutinho, por meio de sua assessoria, em resposta ao Ofício nº. 3/2017-COGEP, referente à solicitação da Sra. Ana Maria Schwendler Ramos, com base na Lei nº. 12.527/2011, Lei de Acesso à Informação, apresenta o seguinte esclarecimento.</span></div>
+<div><span style="font-style:italic;font-family:Arial;font-size:10px;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; A requerente questionou o gasto do parlamentar Augusto Coutinho, em 8/12/2015, com alimentação, no valor de R$ 364,50 (trezentos e sessenta e quatro reais e cinquenta centavos), devidamente ressarcido pela Câmara dos Deputados, afirmando que não há qualquer prato no restaurante que seja do valor apresentado na nota.</span></div>
+<div><span style="font-style:italic;font-family:Arial;font-size:10px;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Em resposta ao questionamento da requerente, esclarecemos que a refeição no valor de R$ 364,50 (trezentos e sessenta e quatro reais e cinquenta centavos) foi composta por &quot;couvert&quot;, entrada, salada, prato principal, águas, suco, café expresso e sobremesas, além de 10% do total da conta a título de serviços.</span></div>
+<div><span style="font-style:italic;font-family:Arial;font-size:10px;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Acrescentamos que esse valor refere-se ao consumo exclusivo do parlamentar, e ainda, que, conforme pode ser observado no portal da Câmara dos Deputados, a média dos valores das refeições do deputado Augusto Coutinho é consideravelmente inferior ao desta Nota Fiscal questionada, e também que faz suas refeições em restaurantes apenas quando necessário</span><span style="font-style:italic;font-family:Arial;font-size:10px;">.</span><span style="font-style:italic;font-family:Arial;font-size:10px;">&quot;</span></div>
+<div><span style="font-family:Arial;font-size:12px;">&nbsp;</span></div>
+<div><span style="font-family:Arial;font-size:12px;">&nbsp;</span></div>
+<div><span style="font-family:Arial;font-size:12px;">Em caso de dúvidas, estamos à disposição.</span></div>
+<div><span style="font-family:Arial;font-size:12px;">&nbsp;</span></div>
+<div><span style="font-family:Arial;font-size:12px;">Atenciosamente,</span></div>
+<div><span style="font-family:Arial;font-size:12px;">&nbsp;</span></div>
+<div><span style="font-family:Arial;font-size:12px;">Câmara dos Deputados</span></div>
+<div><span style="font-family:Arial;font-size:12px;">&nbsp;</span></div>
+
+
+</div>
+
+
+
+
+
+
+
+<div style="font-size: 12pt; border: 1px solid #CCC; background-color: #CCC">Demandante Por Autosserviço (Ana Maria Schwendler Ramos) <span style="FONT-SIZE: 10pt; COLOR: #4f4f4f">(09/01/2017 11:41)</span></div>
+<div style="font-size: 12pt; border: 1px solid #BBB; background-color: #FFF">
+Venho por meio deste solicitar esclarecimentos acerca de um reembolso efetuado a partir da CEAP. Trata-se de uma despesa do Deputado Augusto Coutinho no dia 08/12/2015.<br /><br />O documento, no valor de R$364,50, o valor gasto não corresponde aos valores de consumo para uma pessoa no restaurante em questão. Tendo em vista que esse valor não corresponde ao valor do restaurante, solicito maiores esclarecimentos.<br /><br />Seguem links para apreciação:<br /><a href="http://www.camara.gov.br/cota-parlamentar/documento?nuDeputadoId=2236&numMes=12&numAno=2015&despesa=13&idDocumento=23527" target="_blank">http://www.camara.gov.br/cota-parlamentar/documento?nuDeputadoId=2236&numMes=12&numAno=2015&despesa=13&idDocumento=23527</a><br /><a
+href="https://www.camara.leg.br/cota-parlamentar/documentos/publ/2236/2015/5873222.pdf" target="_blank">https://www.camara.leg.br/cota-parlamentar/documentos/publ/2236/2015/5873222.pdf</a>
+</div>
+
+
+
+
+
+
+
+</td>
+</tr>
+</tbody>
+</table>
+<p style="FONT-SIZE: 12pt; FONT-FAMILY: Calibri; MARGIN: 0px; LINE-HEIGHT: 18px"></p>
+<p style="FONT-SIZE: 12pt; FONT-FAMILY: Calibri; FONT-WEIGHT: normal; MARGIN: 0px; LINE-HEIGHT: 18px">Por favor, não responda a este e-mail.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<img alt="" height="1" width="1" style="display: none" src="http://camara.custhelp.com/rd/AvMo~wotDv8S~XL~GmMe~yJf9v8qIi75Mv9X~zj~PP_e.gif"/> <div id="checksum" align="right"><span style="font-size: 1pt">
+[---001:002447:26676---]
+</span></div>
+</div>
+</body>
+</html>
+
+--------------Boundary-00=_E9PLVA40000000000000--
+

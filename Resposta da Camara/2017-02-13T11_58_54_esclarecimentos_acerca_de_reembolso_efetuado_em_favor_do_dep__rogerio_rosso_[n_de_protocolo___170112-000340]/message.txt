@@ -1,0 +1,279 @@
+Delivered-To: op.serenatadeamor+bruno@gmail.com
+Received: by 10.202.96.66 with SMTP id u63csp1043786oib;
+        Mon, 13 Feb 2017 03:58:55 -0800 (PST)
+X-Received: by 10.36.33.135 with SMTP id e129mr20470103ita.9.1486987134994;
+        Mon, 13 Feb 2017 03:58:54 -0800 (PST)
+Return-Path: <camara@mailmw.custhelp.com>
+Received: from mailgwmw05.rightnowtech.com (mailgwmw05.rightnowtech.com. [74.117.203.125])
+        by mx.google.com with ESMTPS id m204si10451650ioe.134.2017.02.13.03.58.54
+        for <op.serenatadeamor+bruno@gmail.com>
+        (version=TLS1 cipher�S128-SHA bits8/128);
+        Mon, 13 Feb 2017 03:58:54 -0800 (PST)
+Received-SPF: pass (google.com: domain of camara@mailmw.custhelp.com designates 74.117.203.125 as permitted sender) client-ipt.117.203.125;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@mailmw.custhelp.com;
+       spf=pass (google.com: domain of camara@mailmw.custhelp.com designates 74.117.203.125 as permitted sender) smtp.mailfrom�mara@mailmw.custhelp.com;
+       dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=custhelp.com
+Return-Path: <camara@mailmw.custhelp.com>
+DomainKey-Signature: q=dns; a=rsa-sha1; c=nofws;
+	s=dkrnt; d=mailmw.custhelp.com;
+	h=DKIM-Signature:Received:Content-Type:From:To:Date:Subject:MIME-Version:Message-Id;
+	b=Uutfh2oGzeeY5Qv7N8O7aW800zohmuNQuz5dgwxTSCoEhLqtZ3IGiohm4XNIrjoy
+	11/HTRBwvLerJ53NFd7dWUQp1FfFcu+nlRTbn+T5Q/8aCMRLFiO6VSCWI7VUB8dr
+	ecIT6EVFmgda0I3I/RGWrV5635gicgjPjgr1N8DJaIUDKIM-Signature: v=1; a=rsa-sha1; d=mailmw.custhelp.com; s=dkimrnt; c=simple/simple;
+	q=dns/txt; i=@mailmw.custhelp.com; t86987134;
+	h=From:Subject:Date:To:MIME-Version:Content-Type;
+	bh=HFV/+cRdlpeeY3hYnYrIs4QUcow=;
+	b=fRAaJWz8C1XsJMc85VcB4ZchHB93vWbM7x6y6qicN6m6+xww3StHv5533vi1mC9f
+	THk5Q8CLAAGsjNow8QBs0OLdTkijv0qpU7L0t/8FrbVmW+YiDT0XLmp5JF+1BEvm
+	omRDAxqc19hg1ru2Q6xyStkC6gEjIazVv6zjbl+TK/o=;
+Received: from [10.70.0.84] ([10.70.0.84:35223] helo�cess-mw.rightnowtech.com)
+	by rntmw124.rnmk.com (envelope-from <camara@mailmw.custhelp.com>)
+	(ecelerity 2.2.2.45 r(34222M)) with ESMTP
+	id 68/EF-16178-E7F91A85; Mon, 13 Feb 2017 05:58:54 -0600
+Received: from webmw21.int.rightnowtech.com (localhost [127.0.0.1])
+	by access-mw.rightnowtech.com ("Mail Server") with SMTP id 721E621FDE
+	for <op.serenatadeamor+bruno@gmail.com>; Mon, 13 Feb 2017 05:58:54 -0600 (CST)
+Content-Type: Multipart/Alternative;
+  boundary="------------Boundary-00=_6MABVA40000000000000"
+From: =?UTF-8?Q?"Câmara_dos_Deputados"_?    <camara@mailmw.custhelp.com>
+To: op.serenatadeamor+bruno@gmail.com
+Date: Mon, 13 Feb 2017 09:58:54 -0200 (BRST)
+Subject: =?UTF-8?Q?Esclarecimentos_acerca_de_reembolso_efetuado_em_favor_do_Dep._?    =?UTF-8?Q?Rogério_Rosso_[N°_de_Protocolo:__170112-000340]?MIME-Version: 1.0
+Message-Id: <RNTT.AvMw~woaDv8S~ZD~Gnge~yJj9v8qAo3~JzIE6zj~PP~N.1486987134.wDnEJcgb@webmw21.int.rightnowtech.com>
+
+
+--------------Boundary-00=_6MABVA40000000000000
+Content-Type: Text/Plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Recently you requested personal assistance from our on-line support  
+center. Below is a summary of your request and our response.
+
+If this issue is not resolved to your satisfaction, you may reopen it within the next 7 days.
+
+Thank you for allowing us to be of service to you.
+To access your question from our support site, click http://camara.custhelp.com/app/account/questions/detail/i_id/7154/track/AvMw~woaDv8S~ZD~Gnge~yJj9v8qAi75Mv_V~zj~PP9c/
+
+---------------------------------------------------------------
+
+Subject
+---------------------------------------------------------------
+Esclarecimentos acerca de reembolso efetuado em favor do Dep. Rogério Rosso
+
+Discussion Thread
+---------------------------------------------------------------
+Resposta By E-mail (Câmara dos Deputados) (13/02/2017 09:58)     
+Senhor(a) Bruno Quadros,
+
+A Câmara dos Deputados agradece seu contato.
+
+Em atenção ao solicitado, esclarecemos que o Departamento de Finanças, Orçamento e Contabilidade da Câmara dos Deputados informa o que se segue:
+ 
+"Tendo em vista a dúvida suscitada pelo(a) requerente da mensagem supracitada, quanto à regularidade do ressarcimento, o parlamentar entrou em contato com esta Coordenação e procedeu à devolução do valor de R$ 41,75, referente à despesa ressarcida por meio da Cota para o Exercício da Atividade Parlamentar – CEAP, objeto do questionamento.
+Ressaltamos que já foram efetuados os devidos ajustes no sistema de Controle da Cota para o Exercício da Atividade Parlamentar e Portal Transparência da Câmara dos Deputados na internet."
+ 
+Em caso de dúvidas, estamos à disposição.
+ 
+Atenciosamente,
+
+Câmara dos Deputados
+
+
+Resposta By E-mail (Câmara dos Deputados) (31/01/2017 11:43)     
+Senhor(a) Bruno Quadros,
+
+A Câmara dos Deputados agradece seu contato.
+
+Em atenção ao solicitado, informamos que o Departamento de Finanças, Orçamento e Contabilidade (Defin) está procedendo a uma averiguação dos registros do sistema de controle da Cota para o Exercício da Atividade Parlamentar e da documentação reembolsada, referentes ao caso relatado pelo requerente. Esse Departamento está adotando as medidas necessárias junto ao gabinete parlamentar para o esclarecimento da situação ou eventual restituição de valor reembolsado.
+Ressaltamos, por oportuno, que assim que obtivermos a resposta do parlamentar sobre o caso relatado, encaminharemos os esclarecimentos por este mesmo canal de atendimento.
+Em caso de dúvidas, continuamos à disposição.
+ 
+Atenciosamente,
+
+Câmara dos Deputados
+
+
+Demandante By Autosserviço (Bruno Quadros) (12/01/2017 21:55)     
+Venho por meio deste solicitar esclarecimentos acerca de um reembolso efetuado a partir da CEAP. Trata-se de uma despesa do Deputado Rogério Rosso no dia 18/11/2015.
+
+No documento, estão descritos 11 pratos e 15 bebidas. Tendo em vista que a CEAP, de acordo com Ato da Mesa, é de usufruto exclusivo do parlamentar no que diz respeito a fornecimento de alimentação, solicito uma devolutiva a este pedido.
+
+Seguem links para apreciação:
+
+http://www.camara.gov.br/cota-parlamentar/documento?nuDeputadoId=2031&numMes=11&numAno=2015&despesa=13&idDocumento=215496
+http://www.camara.gov.br/cota-parlamentar/documentos/publ/2031/2015/5853013.pdf
+
+
+
+Question Reference # 170112-000340
+       Date Created: 12/01/2017 21:55
+  Date Last Updated: 13/02/2017 09:58
+             Status: Respondida
+
+
+[---001:002926:64298---]
+
+--------------Boundary-00=_6MABVA40000000000000
+Content-Type: Text/Html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:rn="http://schemas.rightnow.com/crm/document">
+<head>
+<title>Modelo Câmara</title>
+
+<style type="text/css" xml:space="preserve">
+/*<![CDATA[*/
+P.MsoNormal {
+        MARGIN: 0px
+}
+LI.MsoNormal {
+        MARGIN: 0px
+}
+DIV.MsoNormal {
+        MARGIN: 0px
+}
+P.MsoListParagraph {
+        MARGIN-LEFT: 48px
+}
+LI.MsoListParagraph {
+        MARGIN-LEFT: 48px
+}
+DIV.MsoListParagraph {
+        MARGIN-LEFT: 48px
+}
+/*]]>*/
+</style>
+                                                                     
+</head>
+<body style="FONT-FAMILY: Segoe UI, Verdana, sans-serif">
+
+<div title="rntmarker_25024" id="rntmarker_25024_wDnEJcgb">
+
+<table style="FONT-FAMILY: Segoe UI, Verdana, sans-serif" cellspacing="0" cellpadding="0" width="610" align="center" border="1">
+<tbody>
+<tr>
+<td bgcolor="#F5F5F5">
+<table style="FONT-FAMILY: Segoe UI, Verdana, sans-serif" cellpadding="5" width="600" align="center">
+<tbody>
+<tr>
+<td bgcolor="#FFFFFF">
+<table>
+<tbody>
+<tr>
+<td valign="top">
+<p> </p>
+<p> </p>
+<p> </p>
+</td>
+<td valign="top" width="500">
+<p align="center"><img alt="Image" height="33" src="https://camara.custhelp.com/rnt/rnw/img/enduser/logocamara.jpg" width="285" /></p>
+
+<table style="FONT-FAMILY: Segoe UI, Verdana, sans-serif; WIDTH: 561px" cellpadding="1" width="561">
+<tbody>
+<tr>
+<td>
+<h1 style="FONT-SIZE: 12pt; FONT-FAMILY: Calibri; FONT-WEIGHT: normal; COLOR: #000000; MARGIN: 5px"></h1>
+
+<h1 style="FONT-SIZE: 12pt; FONT-FAMILY: Calibri; FONT-WEIGHT: normal; COLOR: #000000; MARGIN: 5px"></h1>
+Esta notificação está sendo encaminhada para acompanhamento do atendimento à demanda a seguir, encaminhada por meio do Fale Conosco da Câmara dos Deputados.
+<p style="FONT-SIZE: 12pt; FONT-FAMILY: Calibri; FONT-WEIGHT: normal; COLOR: #000000; MARGIN: 5px"></p>
+<h1 style="FONT-SIZE: 12pt; FONT-FAMILY: Calibri; FONT-WEIGHT: normal; COLOR: #000000; MARGIN: 5px">Identificação da demanda:</h1>
+<p style="FONT-SIZE: 12pt; FONT-FAMILY: Calibri; FONT-WEIGHT: normal; COLOR: #000000; MARGIN: 5px">Protocolo: 170112-000340</p>
+<p style="FONT-SIZE: 12pt; FONT-FAMILY: Calibri; FONT-WEIGHT: normal; COLOR: #000000; MARGIN: 5px">Título:<span style="HEIGHT: 19px; WIDTH: 500px">  Esclarecimentos acerca de reembolso efetuado em favor do Dep. Rogério Rosso</span></p>
+<p style="FONT-SIZE: 12pt; FONT-FAMILY: Calibri; FONT-WEIGHT: normal; COLOR: #000000; MARGIN: 5px"></p>
+</td>
+</tr>
+<tr>
+<td>
+
+<div style="font-size: 12pt; border: 1px solid #CCC; background-color: #EEE">Resposta Por E-mail (Câmara dos Deputados) <span style="FONT-SIZE: 10pt; COLOR: #4f4f4f">(13/02/2017 09:58)</span></div>
+<div style="font-size: 12pt; border: 1px solid #BBB;">
+<div><span style="font-family:arial;font-size:12px;">Senhor(a) Bruno Quadros,</span><br />
+<br />
+<span style="font-family:arial;font-size:12px;">A Câmara dos Deputados agradece seu contato.</span><br />
+<br />
+<span style="font-family:arial;font-size:12px;">Em atenção ao solicitado,</span><span style="font-family:arial;font-size:12px;">&nbsp;esclarecemos que o Departamento de Finanças, Orçamento e Contabilidade da Câmara dos Deputados informa o que se segue:</span></div>
+<div><span style="font-family:arial;font-size:12px;">&nbsp;</span></div>
+<div><span style="font-family:Arial;font-size:12px;">&quot;</span><span style="font-family:Arial;font-size:12px;">Tendo em vista a dúvida suscitada pelo(a) requerente da mensagem supracitada, quanto à regularidade do ressarcimento, o parlamentar entrou em contato com esta Coordenação e procedeu à devolução do valor de R$ 41,75, referente à despesa ressarcida por meio da Cota para o Exercício da Atividade Parlamentar – CEAP, objeto do questionamento.</span></div>
+<div><span style="font-family:Arial;font-size:12px;">Ressaltamos que já foram efetuados os devidos ajustes no sistema de Controle da Cota para o Exercício da Atividade Parlamentar e Portal Transparência da Câmara dos Deputados na internet.</span><span style="font-family:Arial;font-size:12px;">&quot;</span></div>
+<div><span style="font-family:Arial;font-size:12px;">&nbsp;</span></div>
+<div><span style="font-family:Arial;font-size:12px;">Em caso de dúvidas, estamos à disposição.</span></div>
+<div><span style="font-family:Arial;font-size:12px;">&nbsp;</span><br />
+<span style="font-family:arial;font-size:12px;">Atenciosamente,</span><br />
+<br />
+<span style="font-family:arial;font-size:12px;">Câmara dos Deputados</span></div>
+
+
+</div>
+
+
+
+
+
+
+
+<div style="font-size: 12pt; border: 1px solid #CCC; background-color: #EEE">Resposta Por E-mail (Câmara dos Deputados) <span style="FONT-SIZE: 10pt; COLOR: #4f4f4f">(31/01/2017 11:43)</span></div>
+<div style="font-size: 12pt; border: 1px solid #BBB;">
+<div><span style="font-family:arial;">Senhor(a) Bruno Quadros,</span><br />
+<br />
+<span style="font-family:arial;">A Câmara dos Deputados agradece seu contato.</span><br />
+<br />
+<span style="font-family:Arial;">Em atenção ao solicitado, informamos que o Departamento de Finanças, Orçamento e Contabilidade (Defin) está procedendo a uma averiguação dos registros do sistema de controle da Cota para o Exercício da Atividade Parlamentar e da documentação reembolsada, referentes ao caso relatado pelo requerente. Esse Departamento está adotando as medidas necessárias junto ao gabinete parlamentar para o esclarecimento da situação ou eventual restituição de valor reembolsado.</span></div>
+<div><span style="font-family:Arial;">Ressaltamos, por oportuno, que assim que obtivermos a resposta do parlamentar sobre o caso relatado, encaminharemos os esclarecimentos por este mesmo canal de atendimento.</span></div>
+<div><span style="font-family:Arial;">Em caso de dúvidas, continuamos à disposição.</span></div>
+<div><span>&nbsp;</span><br />
+<span style="font-family:arial;">Atenciosamente,</span><br />
+<br />
+<span style="font-family:arial;">Câmara dos Deputados</span></div>
+
+
+</div>
+
+
+
+
+
+
+
+<div style="font-size: 12pt; border: 1px solid #CCC; background-color: #CCC">Demandante Por Autosserviço (Bruno Quadros) <span style="FONT-SIZE: 10pt; COLOR: #4f4f4f">(12/01/2017 21:55)</span></div>
+<div style="font-size: 12pt; border: 1px solid #BBB; background-color: #FFF">
+Venho por meio deste solicitar esclarecimentos acerca de um reembolso efetuado a partir da CEAP. Trata-se de uma despesa do Deputado Rogério Rosso no dia 18/11/2015.<br /><br />No documento, estão descritos 11 pratos e 15 bebidas. Tendo em vista que a CEAP, de acordo com Ato da Mesa, é de usufruto exclusivo do parlamentar no que diz respeito a fornecimento de alimentação, solicito uma devolutiva a este pedido.<br /><br />Seguem links para apreciação:<br /><br /><a href="http://www.camara.gov.br/cota-parlamentar/documento?nuDeputadoId=2031&numMes=11&numAno=2015&despesa=13&idDocumento=215496" target="_blank">http://www.camara.gov.br/cota-parlamentar/documento?nuDeputadoId=2031&numMes=11&numAno=2015&despesa=13&idDocumento=215496</a><br /><a
+href="http://www.camara.gov.br/cota-parlamentar/documentos/publ/2031/2015/5853013.pdf" target="_blank">http://www.camara.gov.br/cota-parlamentar/documentos/publ/2031/2015/5853013.pdf</a>
+</div>
+
+
+
+
+
+
+
+</td>
+</tr>
+</tbody>
+</table>
+<p style="FONT-SIZE: 12pt; FONT-FAMILY: Calibri; MARGIN: 0px; LINE-HEIGHT: 18px"></p>
+<p style="FONT-SIZE: 12pt; FONT-FAMILY: Calibri; FONT-WEIGHT: normal; MARGIN: 0px; LINE-HEIGHT: 18px">Por favor, não responda a este e-mail.</p>
+
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<img alt="" height="1" width="1" style="display: none" src="http://camara.custhelp.com/rd/AvMw~woaDv8S~ZD~Gnge~yJj9v8qAi75Mv_V~zj~PP9c.gif"/> <div id="checksum" align="right"><span style="font-size: 1pt">
+[---001:002453:25024---]
+</span></div>
+</div>
+</body>
+</html>
+
+--------------Boundary-00=_6MABVA40000000000000--
+

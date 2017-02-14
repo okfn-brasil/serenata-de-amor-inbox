@@ -1,0 +1,196 @@
+Delivered-To: op.serenatadeamor+ana@gmail.com
+Received: by 10.12.154.7 with SMTP id p7csp2060777qvd;
+        Tue, 31 Jan 2017 11:49:06 -0800 (PST)
+X-Received: by 10.36.138.70 with SMTP id v67mr2033629itd.42.1485892146658;
+        Tue, 31 Jan 2017 11:49:06 -0800 (PST)
+Return-Path: <camara@mailmw.custhelp.com>
+Received: from mailgwmw04.rightnowtech.com (mailgwmw04.rightnowtech.com. [74.117.203.124])
+        by mx.google.com with ESMTPS id l15si13709141iol.113.2017.01.31.11.49.06
+        for <op.serenatadeamor+ana@gmail.com>
+        (version=TLS1 cipher�S128-SHA bits8/128);
+        Tue, 31 Jan 2017 11:49:06 -0800 (PST)
+Received-SPF: pass (google.com: domain of camara@mailmw.custhelp.com designates 74.117.203.124 as permitted sender) client-ipt.117.203.124;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@mailmw.custhelp.com;
+       spf=pass (google.com: domain of camara@mailmw.custhelp.com designates 74.117.203.124 as permitted sender) smtp.mailfrom�mara@mailmw.custhelp.com;
+       dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=custhelp.com
+Return-Path: <camara@mailmw.custhelp.com>
+DomainKey-Signature: q=dns; a=rsa-sha1; c=nofws;
+	s=dkrnt; d=mailmw.custhelp.com;
+	h=DKIM-Signature:Received:Content-Type:From:To:Date:Subject:MIME-Version:Message-Id;
+	b=sBy3E8XUvicULNS/v5erujUFFkmtfofpTplM2R1OhidRG0BdhJwgb3p3H00Y/b/9
+	BCh/N902rhrd4HKKddtHznn40tXXLl49cuYUznA9/0+vfq9KU9CDOJOVedVoGpV3
+	i8sOyDX79ACUlMZu9uoPtobRt9bVM1QLqy42H3/wcAQDKIM-Signature: v=1; a=rsa-sha1; d=mailmw.custhelp.com; s=dkimrnt; c=simple/simple;
+	q=dns/txt; i=@mailmw.custhelp.com; t85892146;
+	h=From:Subject:Date:To:MIME-Version:Content-Type;
+	bh=0ph2KsZZ/XBeRFEngbcDq0sMgws=;
+	b=rvYWwLCB8stBC+58XlUwgA25P4jzoDoCr1IKQcfqKmPiJHOW8nh1FyUh85PAlydK
+	77x7bT2UmyurQXIAFxrFRP1dqfR7pyNxd9xAaMyh57E9rjJMNW7P/YmZvnDrWfoh
+	mrhnO/TenvWYUTt4cuTXwQclqaT5R7ETJ9S67RRm+U4=;
+Received: from [10.70.0.95] ([10.70.0.95:50636] helo�cess-mw.rightnowtech.com)
+	by rntmw123.rnmk.com (envelope-from <camara@mailmw.custhelp.com>)
+	(ecelerity 2.2.2.45 r(34222M)) with ESMTP
+	id 3E/AF-16178-23AE0985; Tue, 31 Jan 2017 13:49:06 -0600
+Received: from webmw23.int.rightnowtech.com (localhost [127.0.0.1])
+	by access-mw.rightnowtech.com ("Mail Server") with SMTP id 268DFB3C9A
+	for <op.serenatadeamor+ana@gmail.com>; Tue, 31 Jan 2017 13:49:06 -0600 (CST)
+Content-Type: Multipart/Alternative;
+  boundary="------------Boundary-00=_UPTNVA40000000000000"
+From: =?UTF-8?Q?"Câmara_dos_Deputados"_?    <camara@mailmw.custhelp.com>
+To: op.serenatadeamor+ana@gmail.com
+Date: Tue, 31 Jan 2017 17:49:06 -0200 (BRST)
+Subject: =?UTF-8?Q?Esclarecimentos_acerca_de_reembolso_do_Dep._Renato_Molling_[N?    =?UTF-8?Q?°_de_Protocolo:__170109-000161]?MIME-Version: 1.0
+Message-Id: <RNTT.AvMo~wqiDv8S~Xz~Gv4e~yJj9v8qIov~TkEwITj~PP~5.1485892146.wDnEJcgb@webmw23.int.rightnowtech.com>
+
+
+--------------Boundary-00=_UPTNVA40000000000000
+Content-Type: Text/Plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Recently you requested personal assistance from our on-line support  
+center. Below is a summary of your request and our response.
+
+If this issue is not resolved to your satisfaction, you may reopen it within the next 7 days.
+
+Thank you for allowing us to be of service to you.
+To access your question from our support site, click http://camara.custhelp.com/app/account/questions/detail/i_id/6062/track/AvMo~wqiDv8S~Xz~Gv4e~yJj9v8qIi75Mv9m~zj~PP_v/
+
+---------------------------------------------------------------
+
+Subject
+---------------------------------------------------------------
+Esclarecimentos acerca de reembolso do Dep. Renato Molling
+
+Discussion Thread
+---------------------------------------------------------------
+Resposta By E-mail (Câmara dos Deputados) (31/01/2017 17:49)     
+Senhor(a) Ana Maria Schwendler Ramos,
+Em atenção ao solicitado, esclarecemos que a sua demanda foi submetida ao Departamento de Finanças, Orçamento e Contabilidade da Câmara dos Deputados, que informou o que se segue:
+"Tendo em vista a dúvida suscitada pelo(a) requerente da mensagem supracitada, quanto à regularidade do ressarcimento, o parlamentar entrou em contato com esta Coordenação e procedeu à devolução do valor de R$ 227,20, montante parcial da despesa ressarcida por meio da Cota para o Exercício da Atividade Parlamentar – CEAP, objeto do questionamento.
+Ressaltamos que já foram efetuados os devidos ajustes no sistema de Controle da Cota para o Exercício da Atividade Parlamentar e Portal Transparência da Câmara dos Deputados na internet."
+Em caso de dúvidas, estamos à disposição.
+Atenciosamente,
+Câmara dos Deputados
+
+
+
+
+Resposta By E-mail (Câmara dos Deputados) (30/01/2017 16:15)     
+Senhor(a) Ana Maria Schwendler Ramos,
+
+A Câmara dos Deputados agradece seu contato.
+
+Em atenção ao solicitado, informamos que o Departamento de Finanças, Orçamento e Contabilidade (Defin) está procedendo a uma averiguação dos registros do sistema de controle da Cota para o Exercício da Atividade Parlamentar e da documentação reembolsada, referentes ao caso relatado pelo requerente. Esse Departamento está adotando as medidas necessárias junto ao gabinete parlamentar para o esclarecimento da situação ou eventual restituição de valor reembolsado.
+Ressaltamos, por oportuno, que assim que obtivermos a resposta do parlamentar sobre o caso relatado, encaminharemos os esclarecimentos por este mesmo canal de atendimento.
+Em caso de dúvidas, continuamos à disposição.
+
+Atenciosamente,
+
+Câmara dos Deputados
+
+
+Demandante By Autosserviço (Ana Maria Schwendler Ramos) (09/01/2017 14:46)     
+Venho por meio deste solicitar esclarecimentos acerca de um reembolso efetuado a partir da CEAP. Trata-se de uma despesa do Deputado Renato Molling no dia 24/05/2013.
+
+O primeiro documento traz descrito o valor de R$ 284.00. Sendo que no mesmo mês o deputado realizou refeições no mesmo estabelecimento por um valor inferior, conforme comprovo com as outras notas do mesmo mês, gastando R$ 62.00. Sendo assim solicito esclarecimentos sobre os resarcimentos. 
+
+Seguem links para apreciação:
+
+http://www.camara.gov.br/cota-parlamentar/documento?nuDeputadoId=1922&numMes=5&numAno=2013&despesa=13&idDocumento=004679
+
+http://www.camara.gov.br/cota-parlamentar/documento?nuDeputadoId=1922&numMes=5&numAno=2013&despesa=13&idDocumento=004275
+
+http://www.camara.gov.br/cota-parlamentar/documento?nuDeputadoId=1922&numMes=5&numAno=2013&despesa=13&idDocumento=004602
+
+
+
+Question Reference # 170109-000161
+       Date Created: 09/01/2017 14:46
+  Date Last Updated: 31/01/2017 17:49
+             Status: Respondida
+
+
+[---001:003142:20883---]
+
+--------------Boundary-00=_UPTNVA40000000000000
+Content-Type: Text/Html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:rn="http://schemas.rightnow.com/crm/document">
+<head>
+<title>Modelo Câmara</title>
+
+<style type="text/css" xml:space="preserve">
+/*<![CDATA[*/
+P.MsoNormal {
+        MARGIN: 0px
+}
+LI.MsoNormal {
+        MARGIN: 0px
+}
+DIV.MsoNormal {
+        MARGIN: 0px
+}
+P.MsoListParagraph {
+        MARGIN-LEFT: 48px
+}
+LI.MsoListParagraph {
+        MARGIN-LEFT: 48px
+}
+DIV.MsoListParagraph {
+        MARGIN-LEFT: 48px
+}
+/*]]>*/
+</style>
+                                                                     
+</head>
+<body style="FONT-FAMILY: Segoe UI, Verdana, sans-serif">
+
+<div title="rntmarker_17033" id="rntmarker_17033_wDnEJcgb">
+
+<table style="FONT-FAMILY: Segoe UI, Verdana, sans-serif" cellspacing="0" cellpadding="0" width="610" align="center" border="1">
+<tbody>
+<tr>
+<td bgcolor="#F5F5F5">
+<table style="FONT-FAMILY: Segoe UI, Verdana, sans-serif" cellpadding="5" width="600" align="center">
+<tbody>
+<tr>
+<td bgcolor="#FFFFFF">
+<table>
+<tbody>
+<tr>
+<td valign="top">
+<p> </p>
+<p> </p>
+<p> </p>
+</td>
+<td valign="top" width="500">
+<p align="center"><img alt="Image" height="33" src="https://camara.custhelp.com/rnt/rnw/img/enduser/logocamara.jpg" width="285" /></p>
+
+<p style="FONT-FAMILY: Verdana">Olá <span style="FONT-WEIGHT: bold">Ana Maria Schwendler Ramos</span>,<br />
+<br />
+Informamos que a demanda sob protocolo 170109-000161 foi atendida no dia 31/01/2017 17:49 e dada a não apresentação de recurso, a mesma será finalizada.<br />
+<br />
+A Câmara dos Deputados agradece o seu contato.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<img alt="" height="1" width="1" style="display: none" src="http://camara.custhelp.com/rd/AvMo~wqiDv8S~Xz~Gv4e~yJj9v8qIi75Mv9m~zj~PP_v.gif"/> <div id="checksum" align="right"><span style="font-size: 1pt">
+[---001:000201:17033---]
+</span></div>
+</div>
+</body>
+</html>
+
+--------------Boundary-00=_UPTNVA40000000000000--
+

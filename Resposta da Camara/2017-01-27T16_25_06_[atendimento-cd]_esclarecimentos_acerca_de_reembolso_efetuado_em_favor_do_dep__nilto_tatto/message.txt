@@ -1,0 +1,237 @@
+Delivered-To: op.serenatadeamor@gmail.com
+Received: by 10.12.154.7 with SMTP id p7csp315252qvd;
+        Fri, 27 Jan 2017 08:25:07 -0800 (PST)
+X-Received: by 10.107.28.204 with SMTP id c195mr8470083ioc.223.1485534307122;
+        Fri, 27 Jan 2017 08:25:07 -0800 (PST)
+Return-Path: <camara@mailmw.custhelp.com>
+Received: from mailgwmw04.rightnowtech.com (mailgwmw04.rightnowtech.com. [74.117.203.124])
+        by mx.google.com with ESMTPS id j1si1965950iti.75.2017.01.27.08.25.06
+        for <op.serenatadeamor@gmail.com>
+        (version=TLS1 cipher�S128-SHA bits8/128);
+        Fri, 27 Jan 2017 08:25:07 -0800 (PST)
+Received-SPF: pass (google.com: domain of camara@mailmw.custhelp.com designates 74.117.203.124 as permitted sender) client-ipt.117.203.124;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@mailmw.custhelp.com;
+       spf=pass (google.com: domain of camara@mailmw.custhelp.com designates 74.117.203.124 as permitted sender) smtp.mailfrom�mara@mailmw.custhelp.com;
+       dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=custhelp.com
+Return-Path: <camara@mailmw.custhelp.com>
+DomainKey-Signature: q=dns; a=rsa-sha1; c=nofws;
+	s=dkrnt; d=mailmw.custhelp.com;
+	h=DKIM-Signature:Received:Content-Type:From:To:Date:Subject:MIME-Version:Message-Id;
+	b=DSUGFiTWaLUpraFy29K++atW3cdMFCB/56osZj9AP2pAeVO9stEmJ/C7H5yajuJ9
+	y83APNTCleQ2ADtg3/1BbL28CppojgjRatJ62d/29+xGjvlsVLLRUf15Dz9jwQ/b
+	AfQ0B2VIPv23ewiGVwy1iHxHPCRWTiSrRy+HmALpYl4DKIM-Signature: v=1; a=rsa-sha1; d=mailmw.custhelp.com; s=dkimrnt; c=simple/simple;
+	q=dns/txt; i=@mailmw.custhelp.com; t85534306;
+	h=From:Subject:Date:To:MIME-Version:Content-Type;
+	bh=WVzkGwKm4AGqfUlSyTh752dVuss=;
+	b=an8l9YbfnxALgE++2nG65GxX2bIDsuEUyhYeQQwIW/EXrVtkL2Od6h7m0EJskxSO
+	0rjls3dcGre3iWs8a3TVJEG4fhIVSWNZXKWs1ogUjPVyjLSfpVb0CenUcWuZu4xA
+	fsvrHlj+Jig0/ci2FHChoNPo2Q2jeiPzlqDTHLR7vXs=;
+Received: from [10.70.0.99] ([10.70.0.99:50047] helo�cess-mw.rightnowtech.com)
+	by rntmw125.rnmk.com (envelope-from <camara@mailmw.custhelp.com>)
+	(ecelerity 2.2.2.45 r(34222M)) with ESMTP
+	id E7/1A-30017-2647B885; Fri, 27 Jan 2017 10:25:06 -0600
+Received: from webmw27.int.rightnowtech.com (localhost [127.0.0.1])
+	by access-mw.rightnowtech.com ("Mail Server") with SMTP id DAC1211F847
+	for <op.serenatadeamor@gmail.com>; Fri, 27 Jan 2017 10:25:06 -0600 (CST)
+Content-Type: Multipart/Alternative;
+  boundary="------------Boundary-00=_UL5GVA40000000000000"
+From: =?UTF-8?Q?"Câmara_dos_Deputados"_?    <camara@mailmw.custhelp.com>
+To: op.serenatadeamor@gmail.com
+Date: Fri, 27 Jan 2017 14:25:06 -0200 (BRST)
+Subject: [Atendimento-CD] Esclarecimentos acerca de reembolso efetuado em favor do Dep. Nilto Tatto
+MIME-Version: 1.0
+Message-Id: <RNTT.AvM_~wpvDv8S~Xb~Gqoe~yJf9v8qmjj~CvlbRDj~PP_S.1485534306.wDnEJcgb@webmw27.int.rightnowtech.com>
+
+
+--------------Boundary-00=_UL5GVA40000000000000
+Content-Type: Text/Plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Recently you requested personal assistance from our on-line support  
+center. Below is a summary of your request and our response.
+We are continuing to work on your issue. To update your question with  
+additional information, click http://camara.custhelp.com/app/account/questions/detail/i_id/7240/track/AvM_~wpvDv8S~Xb~Gqoe~yJf9v8qmi75Mv9T~zj~PP_a/
+
+---------------------------------------------------------------
+
+Subject
+---------------------------------------------------------------
+Esclarecimentos acerca de reembolso efetuado em favor do Dep. Nilto Tatto
+
+Discussion Thread
+---------------------------------------------------------------
+Resposta By E-mail (Câmara dos Deputados) (27/01/2017 14:25)     
+Senhor(a) Pedro Vilanova dos Reis,
+ 
+A Câmara dos Deputados agradece seu contato.
+ 
+Em atenção ao solicitado, esclarecemos que a sua demanda foi submetida ao Departamento de Finanças, Orçamento e Contabilidade (Defin) da Câmara dos Deputados, que informou o que segue:
+ 
+"Tendo em vista a dúvida suscitada pelo(a) requerente, quanto à regularidade do ressarcimento, o parlamentar entrou em contato com esta Coordenação e procedeu à devolução do valor de R$ 31,50, montante parcial da despesa ressarcida por meio da Cota para o Exercício da Atividade Parlamentar – CEAP, objeto do questionamento.
+Ressaltamos que já foram efetuados os devidos ajustes no sistema de Controle da Cota para o Exercício da Atividade Parlamentar e Portal Transparência da Câmara dos Deputados na internet."
+ 
+ 
+Em caso de dúvidas, estamos à disposição.
+ 
+Atenciosamente,
+ 
+Câmara dos Deputados
+
+
+Demandante By Autosserviço (Pedro Vilanova dos Reis) (13/01/2017 10:19)     
+Venho por meio deste solicitar esclarecimentos acerca de um reembolso efetuado a partir da CEAP. Trata-se de uma despesa do Deputado Nilto Tatto no dia 21/06/2016.
+
+No documento, estão descritos 2 pratos e 2 sobremesas. Tendo em vista que a CEAP, de acordo com Ato da Mesa, é de usufruto exclusivo do parlamentar no que diz respeito a fornecimento de alimentação, solicito uma devolutiva a este pedido.
+
+Seguem links para apreciação:
+
+http://www.camara.gov.br/cota-parlamentar/documento?nuDeputadoId=3072&numMes=6&numAno=2016&despesa=13&idDocumento=235307
+http://www.camara.gov.br/cota-parlamentar/documentos/publ/3072/2016/6034208.pdf
+
+
+
+Question Reference # 170113-000078
+       Date Created: 13/01/2017 10:19
+  Date Last Updated: 27/01/2017 14:25
+             Status: Recebida
+
+
+[---001:002121:56291---]
+
+--------------Boundary-00=_UL5GVA40000000000000
+Content-Type: Text/Html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:rn="http://schemas.rightnow.com/crm/document">
+<head>
+<title>Modelo Câmara</title>
+
+<style type="text/css" xml:space="preserve">
+/*<![CDATA[*/
+P.MsoNormal {
+        MARGIN: 0px
+}
+LI.MsoNormal {
+        MARGIN: 0px
+}
+DIV.MsoNormal {
+        MARGIN: 0px
+}
+P.MsoListParagraph {
+        MARGIN-LEFT: 48px
+}
+LI.MsoListParagraph {
+        MARGIN-LEFT: 48px
+}
+DIV.MsoListParagraph {
+        MARGIN-LEFT: 48px
+}
+/*]]>*/
+</style>
+                                                                     
+</head>
+<body style="FONT-FAMILY: Segoe UI, Verdana, sans-serif">
+
+<div title="rntmarker_20223" id="rntmarker_20223_wDnEJcgb">
+
+<table style="FONT-FAMILY: Segoe UI, Verdana, sans-serif" cellspacing="0" cellpadding="0" width="610" align="center" border="1">
+<tbody>
+<tr>
+<td bgcolor="#F5F5F5">
+<table style="FONT-FAMILY: Segoe UI, Verdana, sans-serif" cellpadding="5" width="600" align="center">
+<tbody>
+<tr>
+<td bgcolor="#FFFFFF">
+<table>
+<tbody>
+<tr>
+<td valign="top">
+<p> </p>
+<p> </p>
+<p> </p>
+</td>
+<td valign="top" width="500">
+<p align="center"><img alt="Image" height="33" src="https://camara.custhelp.com/rnt/rnw/img/enduser/logocamara.jpg" width="285" /></p>
+
+<table style="FONT-FAMILY: Segoe UI, Verdana, sans-serif; WIDTH: 561px" cellpadding="1" width="561">
+<tbody>
+<tr>
+<td>
+<h1 style="FONT-SIZE: 12pt; FONT-FAMILY: Calibri; FONT-WEIGHT: normal; COLOR: #000000; MARGIN: 5px"><span style="FONT-SIZE: 12pt; FONT-FAMILY: Calibri; WHITE-SPACE: pre-wrap; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px">Esta notificação está sendo encaminhada para acompanhamento do atendimento à demanda a seguir.</span></h1>
+<p style="FONT-SIZE: 12pt; FONT-FAMILY: Calibri; FONT-WEIGHT: normal; COLOR: #000000; MARGIN: 5px"></p>
+<h1 style="FONT-SIZE: 12pt; FONT-FAMILY: Calibri; FONT-WEIGHT: normal; COLOR: #000000; MARGIN: 5px">Identificação da demanda:</h1>
+<p style="FONT-SIZE: 12pt; FONT-FAMILY: Calibri; FONT-WEIGHT: normal; COLOR: #000000; MARGIN: 5px">Protocolo: 170113-000078</p>
+<p style="FONT-SIZE: 12pt; FONT-FAMILY: Calibri; FONT-WEIGHT: normal; COLOR: #000000; MARGIN: 5px">Título:<span style="HEIGHT: 19px; WIDTH: 500px">  Esclarecimentos acerca de reembolso efetuado em favor do Dep. Nilto Tatto</span></p>
+</td>
+</tr>
+<tr>
+<td>
+
+<div style="font-size: 12pt; border: 1px solid #CCC; background-color: #EEE">Resposta Por E-mail (Câmara dos Deputados) <span style="FONT-SIZE: 10pt; COLOR: #4f4f4f">(27/01/2017 14:25)</span></div>
+<div style="font-size: 12pt; border: 1px solid #BBB;">
+<div><span style="font-family:Arial;font-size:12px;">Senhor(a) Pedro Vilanova dos Reis,</span></div>
+<div style="font-family:Arial;font-size:12px;">&nbsp;</div>
+<div><span style="font-family:Arial;font-size:12px;">A Câmara dos Deputados agradece seu contato.</span></div>
+<div style="font-family:Arial;font-size:12px;">&nbsp;</div>
+<div><span style="font-family:Arial;font-size:12px;">Em atenção ao solicitado, esclarecemos que a sua demanda foi submetida ao Departamento de Finanças, Orçamento e Contabilidade (Defin) da Câmara dos Deputados, que informou o que segue:</span></div>
+<div style="font-family:Arial;font-size:12px;">&nbsp;</div>
+<div><span style="font-style:italic;font-family:Arial;font-size:10px;">&quot;</span><span style="font-style:italic;font-family:Arial;font-size:10px;">Tendo em vista a dúvida suscitada pelo(a) requerente, quanto à regularidade do ressarcimento, o parlamentar entrou em contato com esta Coordenação e procedeu à devolução do valor de R$ 31,50, montante parcial da despesa ressarcida por meio da Cota para o Exercício da Atividade Parlamentar – CEAP, objeto do questionamento.</span></div>
+<div><span style="font-style:italic;font-family:Arial;font-size:10px;">Ressaltamos que já foram efetuados os devidos ajustes no sistema de Controle da Cota para o Exercício da Atividade Parlamentar e Portal Transparência da Câmara dos Deputados na internet.</span><span style="font-style:italic;font-family:Arial;font-size:10px;">&quot;</span></div>
+<div><span style="font-family:Arial;font-size:10px;">&nbsp;</span></div>
+<div><span style="font-family:Arial;font-size:12px;">&nbsp;</span></div>
+<div><span style="font-family:Arial;font-size:12px;">Em caso de dúvidas, estamos à disposição.</span></div>
+<div style="font-family:Arial;font-size:12px;">&nbsp;</div>
+<div><span style="font-family:Arial;font-size:12px;">Atenciosamente,</span></div>
+<div style="font-family:Arial;font-size:12px;">&nbsp;</div>
+<div><span style="font-family:Arial;font-size:12px;">Câmara dos Deputados</span></div>
+
+
+</div>
+
+
+
+
+
+
+
+<div style="font-size: 12pt; border: 1px solid #CCC; background-color: #CCC">Demandante Por Autosserviço (Pedro Vilanova dos Reis) <span style="FONT-SIZE: 10pt; COLOR: #4f4f4f">(13/01/2017 10:19)</span></div>
+<div style="font-size: 12pt; border: 1px solid #BBB; background-color: #FFF">
+Venho por meio deste solicitar esclarecimentos acerca de um reembolso efetuado a partir da CEAP. Trata-se de uma despesa do Deputado Nilto Tatto no dia 21/06/2016.<br /><br />No documento, estão descritos 2 pratos e 2 sobremesas. Tendo em vista que a CEAP, de acordo com Ato da Mesa, é de usufruto exclusivo do parlamentar no que diz respeito a fornecimento de alimentação, solicito uma devolutiva a este pedido.<br /><br />Seguem links para apreciação:<br /><br /><a href="http://www.camara.gov.br/cota-parlamentar/documento?nuDeputadoId=3072&numMes=6&numAno=2016&despesa=13&idDocumento=235307" target="_blank">http://www.camara.gov.br/cota-parlamentar/documento?nuDeputadoId=3072&numMes=6&numAno=2016&despesa=13&idDocumento=235307</a><br /><a
+href="http://www.camara.gov.br/cota-parlamentar/documentos/publ/3072/2016/6034208.pdf" target="_blank">http://www.camara.gov.br/cota-parlamentar/documentos/publ/3072/2016/6034208.pdf</a>
+</div>
+
+
+
+
+
+
+
+</td>
+</tr>
+</tbody>
+</table>
+<p style="FONT-SIZE: 12pt; FONT-FAMILY: Calibri; MARGIN: 0px; LINE-HEIGHT: 18px"></p>
+<p style="FONT-SIZE: 12pt; FONT-FAMILY: Calibri; FONT-WEIGHT: normal; MARGIN: 0px; LINE-HEIGHT: 18px">Por favor, não responda a este e-mail.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<img alt="" height="1" width="1" style="display: none" src="http://camara.custhelp.com/rd/AvM_~wpvDv8S~Xb~Gqoe~yJf9v8qmi75Mv9T~zj~PP_a.gif"/> <div id="checksum" align="right"><span style="font-size: 1pt">
+[---001:001672:20223---]
+</span></div>
+</div>
+</body>
+</html>
+
+--------------Boundary-00=_UL5GVA40000000000000--
+

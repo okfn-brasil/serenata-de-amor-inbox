@@ -1,0 +1,194 @@
+Delivered-To: op.serenatadeamor+bruno@gmail.com
+Received: by 10.12.154.7 with SMTP id p7csp2054538qvd;
+        Tue, 31 Jan 2017 11:31:07 -0800 (PST)
+X-Received: by 10.28.71.133 with SMTP id m5mr18991408wmi.132.1485891067782;
+        Tue, 31 Jan 2017 11:31:07 -0800 (PST)
+Return-Path: <camara@mailmw.custhelp.com>
+Received: from mailgwmw04.rightnowtech.com (mailgwmw04.rightnowtech.com. [74.117.203.124])
+        by mx.google.com with ESMTPS id c21si21913847wrc.301.2017.01.31.11.31.07
+        for <op.serenatadeamor+bruno@gmail.com>
+        (version=TLS1 cipher�S128-SHA bits8/128);
+        Tue, 31 Jan 2017 11:31:07 -0800 (PST)
+Received-SPF: pass (google.com: domain of camara@mailmw.custhelp.com designates 74.117.203.124 as permitted sender) client-ipt.117.203.124;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@mailmw.custhelp.com;
+       spf=pass (google.com: domain of camara@mailmw.custhelp.com designates 74.117.203.124 as permitted sender) smtp.mailfrom�mara@mailmw.custhelp.com;
+       dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=custhelp.com
+Return-Path: <camara@mailmw.custhelp.com>
+DomainKey-Signature: q=dns; a=rsa-sha1; c=nofws;
+	s=dkrnt; d=mailmw.custhelp.com;
+	h=DKIM-Signature:Received:Content-Type:From:To:Date:Subject:MIME-Version:Message-Id;
+	b=URmGpIU126Ze26WwRjT2f+Yfe1qmOG6c6eR8+Sc8pKZwMQ0KsnD4OvsWP0NBRpff
+	/10wDpXbdxkv5O1XOjLb+wyLnADH6KhULss1wws8hUveHJUVY8Te9tYnie9lLj0O
+	ayKVbdFNlJl6lLZSZEqF80veBLQl00h0IhgczN/etdMDKIM-Signature: v=1; a=rsa-sha1; d=mailmw.custhelp.com; s=dkimrnt; c=simple/simple;
+	q=dns/txt; i=@mailmw.custhelp.com; t85891066;
+	h=From:Subject:Date:To:MIME-Version:Content-Type;
+	bh=Ik7chMO7WHTw72nfiBQYe1Iiaj4=;
+	b=GfS9XEH1iOQh6kRp41bYkkVX8FkVqtcZxNFo40Hm1kCfkmq1ysZLSNph0VwC9CKY
+	QOcAW4WYHGuEdgOo9HehFNtc71KqQQhhAkQH89NyFFa3qTjqpVf3neHvnRlRBkjr
+	m2PV6bdhNOST8WV2U5ES2EWMpjYisJRZvH8N18I6/XQ=;
+Received: from [10.70.0.95] ([10.70.0.95:43255] helo�cess-mw.rightnowtech.com)
+	by rntmw125.rnmk.com (envelope-from <camara@mailmw.custhelp.com>)
+	(ecelerity 2.2.2.45 r(34222M)) with ESMTP
+	id 7D/C9-16178-AF5E0985; Tue, 31 Jan 2017 13:31:06 -0600
+Received: from webmw23.int.rightnowtech.com (localhost [127.0.0.1])
+	by access-mw.rightnowtech.com ("Mail Server") with SMTP id D7F5CB3B50
+	for <op.serenatadeamor+bruno@gmail.com>; Tue, 31 Jan 2017 13:31:06 -0600 (CST)
+Content-Type: Multipart/Alternative;
+  boundary="------------Boundary-00=_UVSNVA40000000000000"
+From: =?UTF-8?Q?"Câmara_dos_Deputados"_?    <camara@mailmw.custhelp.com>
+To: op.serenatadeamor+bruno@gmail.com
+Date: Tue, 31 Jan 2017 17:31:06 -0200 (BRST)
+Subject: =?UTF-8?Q?Esclarecimentos_acerca_de_reembolso_do_Dep._Rossoni_[N°_d?    =?UTF-8?Q?e_Protocolo:__170109-000150]?MIME-Version: 1.0
+Message-Id: <RNTT.AvMo~wqyDv8S~Xz~Gh0e~yJj9v8qAo3~JzLk6zj~PP8t.1485891066.wDnEJcgb@webmw23.int.rightnowtech.com>
+
+
+--------------Boundary-00=_UVSNVA40000000000000
+Content-Type: Text/Plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Recently you requested personal assistance from our on-line support  
+center. Below is a summary of your request and our response.
+
+If this issue is not resolved to your satisfaction, you may reopen it within the next 7 days.
+
+Thank you for allowing us to be of service to you.
+To access your question from our support site, click http://camara.custhelp.com/app/account/questions/detail/i_id/6054/track/AvMo~wqyDv8S~Xz~Gh0e~yJj9v8qAi75Mv90~zj~PP_9/
+
+---------------------------------------------------------------
+
+Subject
+---------------------------------------------------------------
+Esclarecimentos acerca de reembolso do Dep. Rossoni
+
+Discussion Thread
+---------------------------------------------------------------
+Resposta By E-mail (Câmara dos Deputados) (31/01/2017 17:31)     
+Senhor(a) Bruno Quadros,
+Em atenção ao solicitado, esclarecemos que a sua demanda foi submetida ao Departamento de Finanças, Orçamento e Contabilidade da Câmara dos Deputados, que informou o que se segue:
+ 
+"Tendo em vista a dúvida suscitada pelo requerente da mensagem supracitada, quanto à regularidade do ressarcimento, informamos que, em que pese o valor ter sido efetivamente reembolsado pela CEAP, o parlamentar já havia restituído à Câmara dos Deputados o valor integral da despesa constante da Nota Fiscal n. 103119, no importe de R$ 272,06, conforme se verifica dos dados constantes do sítio eletrônico da Câmara do Deputados."
+
+Em caso de dúvidas, estamos à disposição.
+Atenciosamente,
+Câmara dos Deputados
+
+
+
+
+Resposta By E-mail (Câmara dos Deputados) (30/01/2017 13:21)     
+Senhor(a) Bruno Quadros,
+
+A Câmara dos Deputados agradece seu contato.
+
+Em atenção ao solicitado, informamos que o Departamento de Finanças, Orçamento e Contabilidade (Defin) está procedendo a uma averiguação dos registros do sistema de controle da Cota para o Exercício da Atividade Parlamentar e da documentação reembolsada, referentes ao caso relatado pelo requerente. Esse Departamento está adotando as medidas necessárias junto ao gabinete parlamentar para o esclarecimento da situação ou eventual restituição de valor reembolsado.
+Ressaltamos, por oportuno, que assim que obtivermos a resposta do parlamentar sobre o caso relatado, encaminharemos os esclarecimentos por este mesmo canal de atendimento.
+Em caso de dúvidas, continuamos à disposição.
+
+Atenciosamente,
+
+Câmara dos Deputados
+
+
+Demandante By Autosserviço (Bruno Quadros) (09/01/2017 14:28)     
+Venho por meio deste solicitar esclarecimentos acerca de um reembolso efetuado a partir da CEAP. Trata-se de uma despesa do Deputado Rossoni no dia 21/02/2015.
+
+O documento traz descrito o valor de R$ 272,06. O valor do restaurante, porém, é bem inferior para refeições para uma pessoa, sendo segundo sites de avaliações em média R$ 80.
+
+Seguem links para apreciação:
+
+http://www.camara.gov.br/cota-parlamentar/documento?nuDeputadoId=2992&numMes=2&numAno=2015&despesa=13&idDocumento=103119
+http://www.camara.gov.br/cota-parlamentar/documentos/publ/2992/2015/5609757.pdf
+
+
+
+Question Reference # 170109-000150
+       Date Created: 09/01/2017 14:28
+  Date Last Updated: 31/01/2017 17:31
+             Status: Respondida
+
+
+[---001:002749:47391---]
+
+--------------Boundary-00=_UVSNVA40000000000000
+Content-Type: Text/Html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:rn="http://schemas.rightnow.com/crm/document">
+<head>
+<title>Modelo Câmara</title>
+
+<style type="text/css" xml:space="preserve">
+/*<![CDATA[*/
+P.MsoNormal {
+        MARGIN: 0px
+}
+LI.MsoNormal {
+        MARGIN: 0px
+}
+DIV.MsoNormal {
+        MARGIN: 0px
+}
+P.MsoListParagraph {
+        MARGIN-LEFT: 48px
+}
+LI.MsoListParagraph {
+        MARGIN-LEFT: 48px
+}
+DIV.MsoListParagraph {
+        MARGIN-LEFT: 48px
+}
+/*]]>*/
+</style>
+                                                                     
+</head>
+<body style="FONT-FAMILY: Segoe UI, Verdana, sans-serif">
+
+<div title="rntmarker_15960" id="rntmarker_15960_wDnEJcgb">
+
+<table style="FONT-FAMILY: Segoe UI, Verdana, sans-serif" cellspacing="0" cellpadding="0" width="610" align="center" border="1">
+<tbody>
+<tr>
+<td bgcolor="#F5F5F5">
+<table style="FONT-FAMILY: Segoe UI, Verdana, sans-serif" cellpadding="5" width="600" align="center">
+<tbody>
+<tr>
+<td bgcolor="#FFFFFF">
+<table>
+<tbody>
+<tr>
+<td valign="top">
+<p> </p>
+<p> </p>
+<p> </p>
+</td>
+<td valign="top" width="500">
+<p align="center"><img alt="Image" height="33" src="https://camara.custhelp.com/rnt/rnw/img/enduser/logocamara.jpg" width="285" /></p>
+
+<p style="FONT-FAMILY: Verdana">Olá <span style="FONT-WEIGHT: bold">Bruno Quadros</span>,<br />
+<br />
+Informamos que a demanda sob protocolo 170109-000150 foi atendida no dia 31/01/2017 17:31 e dada a não apresentação de recurso, a mesma será finalizada.<br />
+<br />
+A Câmara dos Deputados agradece o seu contato.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<img alt="" height="1" width="1" style="display: none" src="http://camara.custhelp.com/rd/AvMo~wqyDv8S~Xz~Gh0e~yJj9v8qAi75Mv90~zj~PP_9.gif"/> <div id="checksum" align="right"><span style="font-size: 1pt">
+[---001:000190:15960---]
+</span></div>
+</div>
+</body>
+</html>
+
+--------------Boundary-00=_UVSNVA40000000000000--
+

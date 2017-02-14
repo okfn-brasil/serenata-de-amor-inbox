@@ -1,0 +1,275 @@
+Delivered-To: op.serenatadeamor@gmail.com
+Received: by 10.202.96.66 with SMTP id u63csp1093983oib;
+        Mon, 13 Feb 2017 06:02:51 -0800 (PST)
+X-Received: by 10.107.26.205 with SMTP id a196mr21944360ioa.214.1486994571710;
+        Mon, 13 Feb 2017 06:02:51 -0800 (PST)
+Return-Path: <camara@mailmw.custhelp.com>
+Received: from mailgwmw05.rightnowtech.com (mailgwmw05.rightnowtech.com. [74.117.203.125])
+        by mx.google.com with ESMTPS id 137si3714092ith.64.2017.02.13.06.02.51
+        for <op.serenatadeamor@gmail.com>
+        (version=TLS1 cipher�S128-SHA bits8/128);
+        Mon, 13 Feb 2017 06:02:51 -0800 (PST)
+Received-SPF: pass (google.com: domain of camara@mailmw.custhelp.com designates 74.117.203.125 as permitted sender) client-ipt.117.203.125;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@mailmw.custhelp.com;
+       spf=pass (google.com: domain of camara@mailmw.custhelp.com designates 74.117.203.125 as permitted sender) smtp.mailfrom�mara@mailmw.custhelp.com;
+       dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=custhelp.com
+Return-Path: <camara@mailmw.custhelp.com>
+DomainKey-Signature: q=dns; a=rsa-sha1; c=nofws;
+	s=dkrnt; d=mailmw.custhelp.com;
+	h=DKIM-Signature:Received:Content-Type:From:To:Date:Subject:MIME-Version:Message-Id;
+	b=oP7EduVuSI/D7MTtwPhVkS8f8T5pPgasFdKZ/T4W0+YR7iF4GnFrae9h09QnR2S3
+	zw1GWSaGQ4bqPf9+bwWzrjldtXd8xyLtO1odLAfa8eLHclhHpZ63+wSBhUE+me4V
+	6mTD1OxTMkyxG14ZjOilyr9Rju52FNmGfg5erLaJfi4DKIM-Signature: v=1; a=rsa-sha1; d=mailmw.custhelp.com; s=dkimrnt; c=simple/simple;
+	q=dns/txt; i=@mailmw.custhelp.com; t86994571;
+	h=From:Subject:Date:To:MIME-Version:Content-Type;
+	bh=azXaGp0U3lOa4BG1NJotsKVH0ic=;
+	b=iyfRt/4kGPCJVZPLPh6cL7Hpt7O2/ns1/zxbsTykpTqDb3WgItVkzZRF63VyGn62
+	dH8ucuZJU/EcXBe1stQm5gIaA3dv+GgMkgpEgfV2n4+o+QdrbEQik0MzwxXktSSM
+	n2A9mUNkyLg2LF+pdlst5HxHGBQAD3NL18oAaX7SQjw=;
+Received: from [10.70.0.73] ([10.70.0.73:58309] helo�cess-mw.rightnowtech.com)
+	by rntmw124.rnmk.com (envelope-from <camara@mailmw.custhelp.com>)
+	(ecelerity 2.2.2.45 r(34222M)) with ESMTP
+	id 1D/8F-32485-B8CB1A85; Mon, 13 Feb 2017 08:02:51 -0600
+Received: from webmw10.int.rightnowtech.com (localhost [127.0.0.1])
+	by access-mw.rightnowtech.com ("Mail Server") with SMTP id 715652207F
+	for <op.serenatadeamor@gmail.com>; Mon, 13 Feb 2017 08:02:51 -0600 (CST)
+Content-Type: Multipart/Alternative;
+  boundary="------------Boundary-00=_RCGBVA40000000000000"
+From: =?UTF-8?Q?"Câmara_dos_Deputados"_?    <camara@mailmw.custhelp.com>
+To: op.serenatadeamor@gmail.com
+Date: Mon, 13 Feb 2017 12:02:51 -0200 (BRST)
+Subject: =?UTF-8?Q?Esclarecimentos_acerca_de_reembolso_do_Dep._Jerônimo_Goer?    =?UTF-8?Q?gen_[N°_de_Protocolo:__170111-000026]?MIME-Version: 1.0
+Message-Id: <RNTT.AvM0~wqCDv8S~Z7~GqEe~yJj9v8qmjj~Cvm3RDj~PP9_.1486994571.wDnEJcgb@webmw10.int.rightnowtech.com>
+
+
+--------------Boundary-00=_RCGBVA40000000000000
+Content-Type: Text/Plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Recently you requested personal assistance from our on-line support  
+center. Below is a summary of your request and our response.
+
+If this issue is not resolved to your satisfaction, you may reopen it within the next 7 days.
+
+Thank you for allowing us to be of service to you.
+To access your question from our support site, click http://camara.custhelp.com/app/account/questions/detail/i_id/6590/track/AvM0~wqCDv8S~Z7~GqEe~yJj9v8qmi75Mv9P~zj~PP_G/
+
+---------------------------------------------------------------
+
+Subject
+---------------------------------------------------------------
+Esclarecimentos acerca de reembolso do Dep. Jerônimo Goergen
+
+Discussion Thread
+---------------------------------------------------------------
+Resposta By E-mail (Câmara dos Deputados) (13/02/2017 12:02)     
+Senhor(a) Pedro Vilanova dos Reis,
+
+A Câmara dos Deputados agradece seu contato.
+
+Em atenção ao solicitado, esclarecemos que o Deputado Jerônimo Goergen informou ao Departamento de Finanças, Orçamento e Contabilidade da Câmara dos Deputados o que se segue:
+
+“O questionamento faz referência à Nota Fiscal do Posto de Combustíveis Santa Lúcia, na cidade de Santa Maria/RS, onde estão descritos 04 itens. Os itens de número 01 e 02 são idênticos, referem-se a um salgado cujo valor unitário é de R$ 3,00 (três reais); o item 03 é uma lata de refrigerante Coca-Cola no valor de R$ 2,50 (dois reais e cinquenta centavos) e, por fim, o item 04, que refere-se a 48,87 litros de Gasolina Aditivada no valor unitário de R$ 3,09 (três reais e nove centavos) por litro, totalizando R$ 151,01 (cento e cinquenta e um reais e um centavo).
+Após este esclarecimento, fica evidente que nenhum dos itens  se enquadram em "gasto muito acima da média" como faz referência o questionamento, ficando os valores dentro do preço médio que era praticado no ano de 2014.”
+
+Atenciosamente,
+
+Câmara dos Deputados
+
+
+Resposta By E-mail (Câmara dos Deputados) (31/01/2017 11:22)     
+Senhor(a) Pedro Vilanova dos Reis,
+
+A Câmara dos Deputados agradece seu contato.
+ 
+Em atenção ao solicitado, informamos que o Departamento de Finanças, Orçamento e Contabilidade (Defin) está procedendo a uma averiguação dos registros do sistema de controle da Cota para o Exercício da Atividade Parlamentar e da documentação reembolsada, referentes ao caso relatado pelo requerente. Esse Departamento está adotando as medidas necessárias junto ao gabinete parlamentar para o esclarecimento da situação ou eventual restituição de valor reembolsado.
+Ressaltamos, por oportuno, que assim que obtivermos a resposta do parlamentar sobre o caso relatado, encaminharemos os esclarecimentos por este mesmo canal de atendimento.
+Em caso de dúvidas, continuamos à disposição.
+
+Atenciosamente,
+
+Câmara dos Deputados
+
+
+Demandante By Autosserviço (Pedro Vilanova dos Reis) (11/01/2017 08:45)     
+Venho por meio deste solicitar esclarecimentos acerca de um reembolso efetuado a partir da CEAP. Trata-se de uma despesa do Deputado Jerônimo Goergen no dia 29/03/2014.
+
+O gasto, porém, foi efetuado em um posto de combustível, o que, se não for uma falha no cadastro, que cataloga a despesa como fornecimento de alimentação, configura um gasto muito acima da média para refeição em estabelecimentos dessa natureza. 
+
+#####
+
+Seguem links para apreciação:
+
+http://www.camara.gov.br/cota-parlamentar/documento?nuDeputadoId=2340&numMes=3&numAno=2014&despesa=13&idDocumento=747907
+
+
+
+Question Reference # 170111-000026
+       Date Created: 11/01/2017 08:45
+  Date Last Updated: 13/02/2017 12:02
+             Status: Respondida
+
+
+[---001:003077:10319---]
+
+--------------Boundary-00=_RCGBVA40000000000000
+Content-Type: Text/Html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:rn="http://schemas.rightnow.com/crm/document">
+<head>
+<title>Modelo Câmara</title>
+
+<style type="text/css" xml:space="preserve">
+/*<![CDATA[*/
+P.MsoNormal {
+        MARGIN: 0px
+}
+LI.MsoNormal {
+        MARGIN: 0px
+}
+DIV.MsoNormal {
+        MARGIN: 0px
+}
+P.MsoListParagraph {
+        MARGIN-LEFT: 48px
+}
+LI.MsoListParagraph {
+        MARGIN-LEFT: 48px
+}
+DIV.MsoListParagraph {
+        MARGIN-LEFT: 48px
+}
+/*]]>*/
+</style>
+                                                                     
+</head>
+<body style="FONT-FAMILY: Segoe UI, Verdana, sans-serif">
+
+<div title="rntmarker_36725" id="rntmarker_36725_wDnEJcgb">
+
+<table style="FONT-FAMILY: Segoe UI, Verdana, sans-serif" cellspacing="0" cellpadding="0" width="610" align="center" border="1">
+<tbody>
+<tr>
+<td bgcolor="#F5F5F5">
+<table style="FONT-FAMILY: Segoe UI, Verdana, sans-serif" cellpadding="5" width="600" align="center">
+<tbody>
+<tr>
+<td bgcolor="#FFFFFF">
+<table>
+<tbody>
+<tr>
+<td valign="top">
+<p> </p>
+<p> </p>
+<p> </p>
+</td>
+<td valign="top" width="500">
+<p align="center"><img alt="Image" height="33" src="https://camara.custhelp.com/rnt/rnw/img/enduser/logocamara.jpg" width="285" /></p>
+
+<table style="FONT-FAMILY: Segoe UI, Verdana, sans-serif; WIDTH: 561px" cellpadding="1" width="561">
+<tbody>
+<tr>
+<td>
+<h1 style="FONT-SIZE: 12pt; FONT-FAMILY: Calibri; FONT-WEIGHT: normal; COLOR: #000000; MARGIN: 5px"></h1>
+
+<h1 style="FONT-SIZE: 12pt; FONT-FAMILY: Calibri; FONT-WEIGHT: normal; COLOR: #000000; MARGIN: 5px"></h1>
+Esta notificação está sendo encaminhada para acompanhamento do atendimento à demanda a seguir, encaminhada por meio do Fale Conosco da Câmara dos Deputados.
+<p style="FONT-SIZE: 12pt; FONT-FAMILY: Calibri; FONT-WEIGHT: normal; COLOR: #000000; MARGIN: 5px"></p>
+<h1 style="FONT-SIZE: 12pt; FONT-FAMILY: Calibri; FONT-WEIGHT: normal; COLOR: #000000; MARGIN: 5px">Identificação da demanda:</h1>
+<p style="FONT-SIZE: 12pt; FONT-FAMILY: Calibri; FONT-WEIGHT: normal; COLOR: #000000; MARGIN: 5px">Protocolo: 170111-000026</p>
+<p style="FONT-SIZE: 12pt; FONT-FAMILY: Calibri; FONT-WEIGHT: normal; COLOR: #000000; MARGIN: 5px">Título:<span style="HEIGHT: 19px; WIDTH: 500px">  Esclarecimentos acerca de reembolso do Dep. Jerônimo Goergen</span></p>
+<p style="FONT-SIZE: 12pt; FONT-FAMILY: Calibri; FONT-WEIGHT: normal; COLOR: #000000; MARGIN: 5px"></p>
+</td>
+</tr>
+<tr>
+<td>
+
+<div style="font-size: 12pt; border: 1px solid #CCC; background-color: #EEE">Resposta Por E-mail (Câmara dos Deputados) <span style="FONT-SIZE: 10pt; COLOR: #4f4f4f">(13/02/2017 12:02)</span></div>
+<div style="font-size: 12pt; border: 1px solid #BBB;">
+<div><span style="font-family:arial;font-size:12px;">Senhor(a) Pedro Vilanova dos Reis,</span><br />
+<br />
+<span style="font-family:arial;font-size:12px;">A Câmara dos Deputados agradece seu contato.</span><br />
+<br />
+<span style="font-family:arial;font-size:12px;">Em atenção ao solicitado,</span><span style="font-family:arial;font-size:12px;">&nbsp;</span><span style="font-family:arial;font-size:12px;">esclarecemos que o</span><span style="font-family:arial;font-size:12px;">&nbsp;Deputado Jerônimo Goergen informou ao</span><span style="font-family:arial;font-size:12px;">&nbsp;Departamento de Finanças, Orçamento e Contabilidade da Câmara dos Deputados o que se segue:</span><br />
+<br />
+<span style="font-family:Arial;font-size:12px;">“O questionamento faz referência à Nota Fiscal do Posto de Combustíveis Santa Lúcia, na cidade de Santa Maria/RS, onde estão descritos 04 itens. Os itens de número 01 e 02 são idênticos, referem-se a um salgado cujo valor unitário é de R$ 3,00 (três reais); o item 03 é uma lata de refrigerante Coca-Cola no valor de R$ 2,50 (dois reais e cinquenta centavos) e, por fim, o item 04, que refere-se a 48,87 litros de Gasolina Aditivada no valor unitário de R$ 3,09 (três reais e nove centavos) por litro, totalizando R$ 151,01 (cento e cinquenta e um reais e um centavo).</span></div>
+<div><span style="font-family:Arial;font-size:12px;">Após este esclarecimento, fica evidente que nenhum dos itens&nbsp; se enquadram em &quot;gasto muito acima da média&quot; como faz referência o questionamento, ficando os valores dentro do preço médio que era praticado no ano de 2014.”</span></div>
+<div><br />
+<span style="font-family:arial;font-size:12px;">Atenciosamente,</span><br />
+<br />
+<span style="font-family:arial;font-size:12px;">Câmara dos Deputados</span></div>
+
+
+</div>
+
+
+
+
+
+
+
+<div style="font-size: 12pt; border: 1px solid #CCC; background-color: #EEE">Resposta Por E-mail (Câmara dos Deputados) <span style="FONT-SIZE: 10pt; COLOR: #4f4f4f">(31/01/2017 11:22)</span></div>
+<div style="font-size: 12pt; border: 1px solid #BBB;">
+<div><span style="font-family:arial;">Senhor(a) Pedro Vilanova dos Reis,</span><br />
+<br />
+<span style="font-family:arial;">A Câmara dos Deputados agradece seu contato.</span></div>
+<div><span style="font-family:arial;">&nbsp;</span><br />
+<span style="font-family:Arial;">Em atenção ao solicitado, informamos que o Departamento de Finanças, Orçamento e Contabilidade (Defin) está procedendo a uma averiguação dos registros do sistema de controle da Cota para o Exercício da Atividade Parlamentar e da documentação reembolsada, referentes ao caso relatado pelo requerente. Esse Departamento está adotando as medidas necessárias junto ao gabinete parlamentar para o esclarecimento da situação ou eventual restituição de valor reembolsado.</span></div>
+<div><span style="font-family:Arial;">Ressaltamos, por oportuno, que assim que obtivermos a resposta do parlamentar sobre o caso relatado, encaminharemos os esclarecimentos por este mesmo canal de atendimento.</span></div>
+<div><span style="font-family:Arial;">Em caso de dúvidas, continuamos à disposição.</span></div>
+<div><br />
+<span style="font-family:arial;">Atenciosamente,</span><br />
+<br />
+<span style="font-family:arial;">Câmara dos Deputados</span></div>
+
+
+</div>
+
+
+
+
+
+
+
+<div style="font-size: 12pt; border: 1px solid #CCC; background-color: #CCC">Demandante Por Autosserviço (Pedro Vilanova dos Reis) <span style="FONT-SIZE: 10pt; COLOR: #4f4f4f">(11/01/2017 08:45)</span></div>
+<div style="font-size: 12pt; border: 1px solid #BBB; background-color: #FFF">
+Venho por meio deste solicitar esclarecimentos acerca de um reembolso efetuado a partir da CEAP. Trata-se de uma despesa do Deputado Jerônimo Goergen no dia 29/03/2014.<br /><br />O gasto, porém, foi efetuado em um posto de combustível, o que, se não for uma falha no cadastro, que cataloga a despesa como fornecimento de alimentação, configura um gasto muito acima da média para refeição em estabelecimentos dessa natureza. <br /><br />#####<br /><br />Seguem links para apreciação:<br /><br /><a href="http://www.camara.gov.br/cota-parlamentar/documento?nuDeputadoId=2340&numMes=3&numAno=2014&despesa=13&idDocumento=747907" target="_blank">http://www.camara.gov.br/cota-parlamentar/documento?nuDeputadoId=2340&numMes=3&numAno=2014&despesa=13&idDocumento=747907</a>
+</div>
+
+
+
+
+
+
+
+</td>
+</tr>
+</tbody>
+</table>
+<p style="FONT-SIZE: 12pt; FONT-FAMILY: Calibri; MARGIN: 0px; LINE-HEIGHT: 18px"></p>
+<p style="FONT-SIZE: 12pt; FONT-FAMILY: Calibri; FONT-WEIGHT: normal; MARGIN: 0px; LINE-HEIGHT: 18px">Por favor, não responda a este e-mail.</p>
+
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<img alt="" height="1" width="1" style="display: none" src="http://camara.custhelp.com/rd/AvM0~wqCDv8S~Z7~GqEe~yJj9v8qmi75Mv9P~zj~PP_G.gif"/> <div id="checksum" align="right"><span style="font-size: 1pt">
+[---001:002604:36725---]
+</span></div>
+</div>
+</body>
+</html>
+
+--------------Boundary-00=_RCGBVA40000000000000--
+

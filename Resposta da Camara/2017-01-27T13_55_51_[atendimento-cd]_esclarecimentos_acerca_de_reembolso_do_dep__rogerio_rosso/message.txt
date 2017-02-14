@@ -1,0 +1,228 @@
+Delivered-To: op.serenatadeamor+cuducos@gmail.com
+Received: by 10.12.154.7 with SMTP id p7csp249893qvd;
+        Fri, 27 Jan 2017 05:55:51 -0800 (PST)
+X-Received: by 10.36.95.11 with SMTP id r11mr3087742itb.26.1485525351852;
+        Fri, 27 Jan 2017 05:55:51 -0800 (PST)
+Return-Path: <camara@mailmw.custhelp.com>
+Received: from mailgwmw05.rightnowtech.com (mailgwmw05.rightnowtech.com. [74.117.203.125])
+        by mx.google.com with ESMTPS id m35si4393367iod.253.2017.01.27.05.55.51
+        for <op.serenatadeamor+cuducos@gmail.com>
+        (version=TLS1 cipher�S128-SHA bits8/128);
+        Fri, 27 Jan 2017 05:55:51 -0800 (PST)
+Received-SPF: pass (google.com: domain of camara@mailmw.custhelp.com designates 74.117.203.125 as permitted sender) client-ipt.117.203.125;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@mailmw.custhelp.com;
+       spf=pass (google.com: domain of camara@mailmw.custhelp.com designates 74.117.203.125 as permitted sender) smtp.mailfrom�mara@mailmw.custhelp.com;
+       dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=custhelp.com
+Return-Path: <camara@mailmw.custhelp.com>
+DomainKey-Signature: q=dns; a=rsa-sha1; c=nofws;
+	s=dkrnt; d=mailmw.custhelp.com;
+	h=DKIM-Signature:Received:Content-Type:From:To:Date:Subject:MIME-Version:Message-Id;
+	b=HAVFE3zfsLw5RsV7y3+Ri8/HnXcGHMKKDxvS8zO3uvjj2VzzU5CoS1myGTZxbjZ6
+	tRQwcYwUnynZKShsv7ESPAWjSHbH/i8h6plSPrdkKaydyRs9cVxF0NfzpJg4HJd3
+	NlPw8k26b2zV+1j2aMV/HW158fB0Rp7kD69WwOC07KMDKIM-Signature: v=1; a=rsa-sha1; d=mailmw.custhelp.com; s=dkimrnt; c=simple/simple;
+	q=dns/txt; i=@mailmw.custhelp.com; t85525351;
+	h=From:Subject:Date:To:MIME-Version:Content-Type;
+	bh=oomJlECg9sZCsUn7Cs9kPYGL+mE=;
+	b=IMgDncd2I8Rn1I5b0YW1khAGIrL8FaqIcU+KiVMsI9VCSLXaV9H/z20UZ+AqXuYk
+	rCO/NrjQB8CQvDpvjeE+X+C8mc5HgXPHGeraDsI7Kz6nDO+UiudcnlqUWM4OzPL4
+	b7xUrRJYJU3nY0grYDzFAy4V0hGngCPczASy8u8XGJo=;
+Received: from [10.70.0.65] ([10.70.0.65:7625] helo�cess-mw.rightnowtech.com)
+	by rntmw123.rnmk.com (envelope-from <camara@mailmw.custhelp.com>)
+	(ecelerity 2.2.2.45 r(34222M)) with ESMTP
+	id AA/AA-30731-7615B885; Fri, 27 Jan 2017 07:55:51 -0600
+Received: from webmw02.int.rightnowtech.com (localhost [127.0.0.1])
+	by access-mw.rightnowtech.com ("Mail Server") with SMTP id 5FA981D526C
+	for <op.serenatadeamor+cuducos@gmail.com>; Fri, 27 Jan 2017 07:55:51 -0600 (CST)
+Content-Type: Multipart/Alternative;
+  boundary="------------Boundary-00=_3PYFVA40000000000000"
+From: =?UTF-8?Q?"Câmara_dos_Deputados"_?    <camara@mailmw.custhelp.com>
+To: op.serenatadeamor+cuducos@gmail.com
+Date: Fri, 27 Jan 2017 11:55:51 -0200 (BRST)
+Subject: =?UTF-8?Q?[Atendimento-CD]_Esclarecimentos_acerca_de_reembolso_do_Dep._R?    =?UTF-8?Q?ogério_Rosso?MIME-Version: 1.0
+Message-Id: <RNTT.AvMo~wryDv8S~Xb~Gi8e~yJf9v8qTHX~oaZiiTj~PP_r.1485525351.wDnEJcgb@webmw02.int.rightnowtech.com>
+
+
+--------------Boundary-00=_3PYFVA40000000000000
+Content-Type: Text/Plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Recently you requested personal assistance from our on-line support  
+center. Below is a summary of your request and our response.
+We are continuing to work on your issue. To update your question with  
+additional information, click http://camara.custhelp.com/app/account/questions/detail/i_id/6022/track/AvMo~wryDv8S~Xb~Gi8e~yJf9v8qTC75Mv_X~zj~PP9e/
+
+---------------------------------------------------------------
+
+Subject
+---------------------------------------------------------------
+Esclarecimentos acerca de reembolso do Dep. Rogério Rosso
+
+Discussion Thread
+---------------------------------------------------------------
+Resposta By E-mail (Câmara dos Deputados) (27/01/2017 11:55)     
+Senhor(a) Eduardo Vicente Gonçalves,
+
+A Câmara dos Deputados agradece seu contato.
+
+Em atenção ao solicitado, esclarecemos que a sua demanda foi submetida ao Departamento de Finanças, Orçamento e Contabilidade (Defin) da Câmara dos Deputados, que informou o que segue:
+"Tendo em vista a dúvida suscitada pelo(a) requerente, quanto à regularidade do ressarcimento, o parlamentar entrou em contato com esta Coordenação e procedeu à devolução do valor de R$ 175,69, montante parcial da despesa ressarcida por meio da Cota para o Exercício da Atividade Parlamentar – CEAP, objeto do questionamento.
+Ressaltamos que já foram efetuados os devidos ajustes no sistema de Controle da Cota para o Exercício da Atividade Parlamentar e Portal Transparência da Câmara dos Deputados na internet."
+ 
+Em caso de dúvidas, estamos à disposição.
+Atenciosamente,
+
+Câmara dos Deputados
+
+
+Demandante By Autosserviço (Eduardo Vicente Gonçalves) (09/01/2017 12:01)     
+Venho por meio deste solicitar esclarecimentos acerca de um reembolso efetuado a partir da CEAP. Trata-se de uma despesa do Deputado Rogério Rosso no dia 11/05/2016.
+
+O documento traz descrito o valor de R$ 294,69. O valor do restaurante, porém, é bem inferior para refeições para uma pessoa, sendo em média de R$ 50 a R$ 70:
+- https://www.yelp.com/biz/roadhouse-grill-bras%C3%ADlia
+- https://brasilia.restorando.com.br/restaurante/roadhouse-grill
+- https://pt.foursquare.com/v/roadhouse-grill/4bd21b1ecaff9521ad14d2f0
+
+Seguem links para apreciação:
+
+http://www.camara.gov.br/cota-parlamentar/documento?nuDeputadoId=2031&numMes=5&numAno=2016&despesa=13&idDocumento=51243
+http://www.camara.gov.br/cota-parlamentar/documentos/publ/2031/2016/5998610.pdf
+
+
+
+Question Reference # 170109-000112
+       Date Created: 09/01/2017 12:01
+  Date Last Updated: 27/01/2017 11:55
+             Status: Recebida
+
+
+[---001:002239:63823---]
+
+--------------Boundary-00=_3PYFVA40000000000000
+Content-Type: Text/Html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:rn="http://schemas.rightnow.com/crm/document">
+<head>
+<title>Modelo Câmara</title>
+
+<style type="text/css" xml:space="preserve">
+/*<![CDATA[*/
+P.MsoNormal {
+        MARGIN: 0px
+}
+LI.MsoNormal {
+        MARGIN: 0px
+}
+DIV.MsoNormal {
+        MARGIN: 0px
+}
+P.MsoListParagraph {
+        MARGIN-LEFT: 48px
+}
+LI.MsoListParagraph {
+        MARGIN-LEFT: 48px
+}
+DIV.MsoListParagraph {
+        MARGIN-LEFT: 48px
+}
+/*]]>*/
+</style>
+                                                                     
+</head>
+<body style="FONT-FAMILY: Segoe UI, Verdana, sans-serif">
+
+<div title="rntmarker_27857" id="rntmarker_27857_wDnEJcgb">
+
+<table style="FONT-FAMILY: Segoe UI, Verdana, sans-serif" cellspacing="0" cellpadding="0" width="610" align="center" border="1">
+<tbody>
+<tr>
+<td bgcolor="#F5F5F5">
+<table style="FONT-FAMILY: Segoe UI, Verdana, sans-serif" cellpadding="5" width="600" align="center">
+<tbody>
+<tr>
+<td bgcolor="#FFFFFF">
+<table>
+<tbody>
+<tr>
+<td valign="top">
+<p> </p>
+<p> </p>
+<p> </p>
+</td>
+<td valign="top" width="500">
+<p align="center"><img alt="Image" height="33" src="https://camara.custhelp.com/rnt/rnw/img/enduser/logocamara.jpg" width="285" /></p>
+
+<table style="FONT-FAMILY: Segoe UI, Verdana, sans-serif; WIDTH: 561px" cellpadding="1" width="561">
+<tbody>
+<tr>
+<td>
+<h1 style="FONT-SIZE: 12pt; FONT-FAMILY: Calibri; FONT-WEIGHT: normal; COLOR: #000000; MARGIN: 5px"><span style="FONT-SIZE: 12pt; FONT-FAMILY: Calibri; WHITE-SPACE: pre-wrap; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px">Esta notificação está sendo encaminhada para acompanhamento do atendimento à demanda a seguir.</span></h1>
+<p style="FONT-SIZE: 12pt; FONT-FAMILY: Calibri; FONT-WEIGHT: normal; COLOR: #000000; MARGIN: 5px"></p>
+<h1 style="FONT-SIZE: 12pt; FONT-FAMILY: Calibri; FONT-WEIGHT: normal; COLOR: #000000; MARGIN: 5px">Identificação da demanda:</h1>
+<p style="FONT-SIZE: 12pt; FONT-FAMILY: Calibri; FONT-WEIGHT: normal; COLOR: #000000; MARGIN: 5px">Protocolo: 170109-000112</p>
+<p style="FONT-SIZE: 12pt; FONT-FAMILY: Calibri; FONT-WEIGHT: normal; COLOR: #000000; MARGIN: 5px">Título:<span style="HEIGHT: 19px; WIDTH: 500px">  Esclarecimentos acerca de reembolso do Dep. Rogério Rosso</span></p>
+</td>
+</tr>
+<tr>
+<td>
+
+<div style="font-size: 12pt; border: 1px solid #CCC; background-color: #EEE">Resposta Por E-mail (Câmara dos Deputados) <span style="FONT-SIZE: 10pt; COLOR: #4f4f4f">(27/01/2017 11:55)</span></div>
+<div style="font-size: 12pt; border: 1px solid #BBB;">
+<div style="margin:0px 0px 8px 0px;text-align:Left;"><span style="color:#000000;font-family:Arial;font-size:12px;">Senhor(a) Eduardo Vicente Gonçalves,</span><span style="color:#000000;font-family:Arial;font-size:12px;"><br /></span><span style="color:#000000;font-family:Arial;font-size:12px;"><br /></span><span style="color:#000000;font-family:Arial;font-size:12px;">A Câmara dos Deputados agradece seu contato.</span><span style="color:#000000;font-family:Arial;font-size:12px;"><br /></span><span style="color:#000000;font-family:Arial;font-size:12px;"><br /></span><span style="color:#000000;font-family:Arial;font-size:12px;"><span style="font-family:Arial;font-size:12px;">Em atenção ao solicitado, esclarecemos que a sua demanda foi submetida ao Departamento de Finanças, Orçamento e
+Contabilidade (Defin) da Câmara dos Deputados, que informou o que segue:</span></span></div>
+<div style="margin:0px 0px 8px 0px;text-align:Left;"><span style="font-style:italic;font-family:Arial;font-size:10px;">&quot;Tendo em vista a dúvida suscitada pelo(a) requerente, quanto à regularidade do ressarcimento, o parlamentar entrou em contato com esta Coordenação e procedeu à devolução do valor de R$ 175,69, montante parcial da despesa ressarcida por meio da Cota para o Exercício da Atividade Parlamentar – CEAP, objeto do questionamento.</span></div>
+<div style="margin:0px 0px 8px 0px;text-align:Left;"><span style="font-style:italic;font-family:Arial;font-size:10px;">Ressaltamos que já foram efetuados os devidos ajustes no sistema de Controle da Cota para o Exercício da Atividade Parlamentar e Portal Transparência da Câmara dos Deputados na internet.&quot;</span></div>
+<div style="margin:0px 0px 8px 0px;text-align:Left;"><span style="font-family:Arial;font-size:12px;">&nbsp;</span></div>
+<div style="margin:0px 0px 8px 0px;text-align:Left;"><span style="font-family:Arial;font-size:12px;">Em caso de dúvidas, estamos à disposição.</span></div>
+<div style="margin:0px 0px 8px 0px;text-align:Left;"><span style="color:#000000;font-family:Arial;font-size:12px;">Atenciosamente,</span><span style="color:#000000;font-family:Arial;font-size:12px;"><br /></span><span style="color:#000000;font-family:Arial;font-size:12px;"><br /></span><span style="font-family:Arial;font-size:12px;">Câmara dos Deputados</span></div>
+
+
+</div>
+
+
+
+
+
+
+
+<div style="font-size: 12pt; border: 1px solid #CCC; background-color: #CCC">Demandante Por Autosserviço (Eduardo Vicente Gonçalves) <span style="FONT-SIZE: 10pt; COLOR: #4f4f4f">(09/01/2017 12:01)</span></div>
+<div style="font-size: 12pt; border: 1px solid #BBB; background-color: #FFF">
+Venho por meio deste solicitar esclarecimentos acerca de um reembolso efetuado a partir da CEAP. Trata-se de uma despesa do Deputado Rogério Rosso no dia 11/05/2016.<br /><br />O documento traz descrito o valor de R$ 294,69. O valor do restaurante, porém, é bem inferior para refeições para uma pessoa, sendo em média de R$ 50 a R$ 70:<br />- <a href="https://www.yelp.com/biz/roadhouse-grill-bras%C3%ADlia" target="_blank">https://www.yelp.com/biz/roadhouse-grill-bras%C3%ADlia</a><br />- <a href="https://brasilia.restorando.com.br/restaurante/roadhouse-grill" target="_blank">https://brasilia.restorando.com.br/restaurante/roadhouse-grill</a><br />- <a href="https://pt.foursquare.com/v/roadhouse-grill/4bd21b1ecaff9521ad14d2f0"
+target="_blank">https://pt.foursquare.com/v/roadhouse-grill/4bd21b1ecaff9521ad14d2f0</a><br /><br />Seguem links para apreciação:<br /><br /><a href="http://www.camara.gov.br/cota-parlamentar/documento?nuDeputadoId=2031&numMes=5&numAno=2016&despesa=13&idDocumento=51243" target="_blank">http://www.camara.gov.br/cota-parlamentar/documento?nuDeputadoId=2031&numMes=5&numAno=2016&despesa=13&idDocumento=51243</a><br /><a href="http://www.camara.gov.br/cota-parlamentar/documentos/publ/2031/2016/5998610.pdf" target="_blank">http://www.camara.gov.br/cota-parlamentar/documentos/publ/2031/2016/5998610.pdf</a>
+</div>
+
+
+
+
+
+
+
+</td>
+</tr>
+</tbody>
+</table>
+<p style="FONT-SIZE: 12pt; FONT-FAMILY: Calibri; MARGIN: 0px; LINE-HEIGHT: 18px"></p>
+<p style="FONT-SIZE: 12pt; FONT-FAMILY: Calibri; FONT-WEIGHT: normal; MARGIN: 0px; LINE-HEIGHT: 18px">Por favor, não responda a este e-mail.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<img alt="" height="1" width="1" style="display: none" src="http://camara.custhelp.com/rd/AvMo~wryDv8S~Xb~Gi8e~yJf9v8qTC75Mv_X~zj~PP9e.gif"/> <div id="checksum" align="right"><span style="font-size: 1pt">
+[---001:001790:27857---]
+</span></div>
+</div>
+</body>
+</html>
+
+--------------Boundary-00=_3PYFVA40000000000000--
+

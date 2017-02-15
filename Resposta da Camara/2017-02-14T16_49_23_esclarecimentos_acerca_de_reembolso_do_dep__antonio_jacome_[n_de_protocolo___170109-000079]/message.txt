@@ -1,0 +1,273 @@
+Delivered-To: op.serenatadeamor@gmail.com
+Received: by 10.202.96.66 with SMTP id u63csp1656415oib;
+        Tue, 14 Feb 2017 08:49:23 -0800 (PST)
+X-Received: by 10.107.138.153 with SMTP id c25mr27928607ioj.77.1487090963692;
+        Tue, 14 Feb 2017 08:49:23 -0800 (PST)
+Return-Path: <camara@mailmw.custhelp.com>
+Received: from mailgwmw05.rightnowtech.com (mailgwmw05.rightnowtech.com. [74.117.203.125])
+        by mx.google.com with ESMTPS id i196si1367063ioi.78.2017.02.14.08.49.23
+        for <op.serenatadeamor@gmail.com>
+        (version=TLS1 cipher�S128-SHA bits8/128);
+        Tue, 14 Feb 2017 08:49:23 -0800 (PST)
+Received-SPF: pass (google.com: domain of camara@mailmw.custhelp.com designates 74.117.203.125 as permitted sender) client-ipt.117.203.125;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@mailmw.custhelp.com;
+       spf=pass (google.com: domain of camara@mailmw.custhelp.com designates 74.117.203.125 as permitted sender) smtp.mailfrom�mara@mailmw.custhelp.com;
+       dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=custhelp.com
+Return-Path: <camara@mailmw.custhelp.com>
+DomainKey-Signature: q=dns; a=rsa-sha1; c=nofws;
+	s=dkrnt; d=mailmw.custhelp.com;
+	h=DKIM-Signature:Received:Content-Type:From:To:Date:Subject:MIME-Version:Message-Id;
+	b�9xPzcJAeHL/CINH6URgr68daUbamMs5FyZ6cowMxycHfWBdd7rqoeULCCuGP60
+	MtfQtidRvvDT/MDaOAlwd0TZqBG+7vB/82FmvagGCcKZ3iRACYVQALtUt3Zq2qug
+	4JMZLMDPFOFySF5Ebq6ilx17zJvq9IysprEsDeMOXNUDKIM-Signature: v=1; a=rsa-sha1; d=mailmw.custhelp.com; s=dkimrnt; c=simple/simple;
+	q=dns/txt; i=@mailmw.custhelp.com; t87090963;
+	h=From:Subject:Date:To:MIME-Version:Content-Type;
+	bh=qoh1guqgKxF7OTaySfkThrcPKd4=;
+	b=aM6Z3tnu8Cm0O1Y3Wa3DMSKZbQLy9aVdO5y+9vci7Z9pR0sWgUvRPxmPQrxp9Sm4
+	FBoCz2N/+NCtl+BBPE/vB28kVQB8IcGiXwqyIcj65UE+q9N18xFukOviKNrX9ska
+	h5kgB3SfSAya2KYBmbcXrz0rIhbuBJ7EOP5qJf2gn+g=;
+Received: from [10.70.0.73] ([10.70.0.73:35127] helo�cess-mw.rightnowtech.com)
+	by rntmw125.rnmk.com (envelope-from <camara@mailmw.custhelp.com>)
+	(ecelerity 2.2.2.45 r(34222M)) with ESMTP
+	id 22/84-32485-31533A85; Tue, 14 Feb 2017 10:49:23 -0600
+Received: from webmw10.int.rightnowtech.com (localhost [127.0.0.1])
+	by access-mw.rightnowtech.com ("Mail Server") with SMTP id 2BE412207F
+	for <op.serenatadeamor@gmail.com>; Tue, 14 Feb 2017 10:49:23 -0600 (CST)
+Content-Type: Multipart/Alternative;
+  boundary="------------Boundary-00=_BQIDVA40000000000000"
+From: =?UTF-8?Q?"Câmara_dos_Deputados"_?    <camara@mailmw.custhelp.com>
+To: op.serenatadeamor@gmail.com
+Date: Tue, 14 Feb 2017 14:49:23 -0200 (BRST)
+Subject: =?UTF-8?Q?Esclarecimentos_acerca_de_reembolso_do_Dep._Antônio_J�?    =?UTF-8?Q?�come_[N°_de_Protocolo:__170109-000079]?MIME-Version: 1.0
+Message-Id: <RNTT.AvMo~wo3Dv8S~Zj~Guce~yJj9v8qmjj~Cvm_RDj~PP93.1487090963.wDnEJcgb@webmw10.int.rightnowtech.com>
+
+
+--------------Boundary-00=_BQIDVA40000000000000
+Content-Type: Text/Plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Recently you requested personal assistance from our on-line support  
+center. Below is a summary of your request and our response.
+
+If this issue is not resolved to your satisfaction, you may reopen it within the next 7 days.
+
+Thank you for allowing us to be of service to you.
+To access your question from our support site, click http://camara.custhelp.com/app/account/questions/detail/i_id/5988/track/AvMo~wo3Dv8S~Zj~Guce~yJj9v8qmi75Mv_2~zj~PP9~/
+
+---------------------------------------------------------------
+
+Subject
+---------------------------------------------------------------
+Esclarecimentos acerca de reembolso do Dep. Antônio Jácome
+
+Discussion Thread
+---------------------------------------------------------------
+Resposta By E-mail (Câmara dos Deputados) (14/02/2017 14:49)     
+Senhor(a) Pedro Vilanova dos Reis,
+
+A Câmara dos Deputados agradece seu contato.
+
+Em atenção ao solicitado, esclarecemos que o Deputado Antônio Jácome informou ao Departamento de Finanças, Orçamento e Contabilidade da Câmara dos Deputados o que se segue:
+
+"Em atenção ao Of. 136/2017 – Cogep, informo que a referida despesa é resultado do acúmulo de várias refeições efetuadas por mim, durante o período de 27/08/2016 a 05/09/2016."
+
+Atenciosamente,
+
+Câmara dos Deputados
+
+
+Resposta By E-mail (Câmara dos Deputados) (30/01/2017 14:13)     
+Senhor(a) Pedro Vilanova dos Reis,
+
+A Câmara dos Deputados agradece seu contato.
+
+Em atenção ao solicitado, informamos que o Departamento de Finanças, Orçamento e Contabilidade (Defin) está procedendo a uma averiguação dos registros do sistema de controle da Cota para o Exercício da Atividade Parlamentar e da documentação reembolsada, referentes ao caso relatado pelo requerente. Esse Departamento está adotando as medidas necessárias junto ao gabinete parlamentar para o esclarecimento da situação ou eventual restituição de valor reembolsado.
+Ressaltamos, por oportuno, que assim que obtivermos a resposta do parlamentar sobre o caso relatado, encaminharemos os esclarecimentos por este mesmo canal de atendimento.
+Em caso de dúvidas, continuamos à disposição.
+
+Atenciosamente,
+
+Câmara dos Deputados
+
+
+Demandante By Autosserviço (Pedro Vilanova dos Reis) (09/01/2017 11:37)     
+Venho por meio deste solicitar esclarecimentos acerca de um reembolso efetuado a partir da CEAP. Trata-se de uma despesa do Deputado Antônio Jácome no dia 05/09/2016.
+
+No documento, está descrita a aquisição de 9kg de comida. Tendo em vista que a CEAP, de acordo com Ato da Mesa, é de usufruto exclusivo do parlamentar no que diz respeito a fornecimento de alimentação, solicito uma devolutiva a este pedido.
+
+Seguem links para apreciação:
+
+http://www.camara.gov.br/cota-parlamentar/documento?nuDeputadoId=3010&numMes=9&numAno=2016&despesa=13&idDocumento=160206
+https://www.camara.leg.br/cota-parlamentar/documentos/publ/3010/2016/6097800.pdf
+
+
+
+Question Reference # 170109-000079
+       Date Created: 09/01/2017 11:37
+  Date Last Updated: 14/02/2017 14:49
+             Status: Respondida
+
+
+[---001:002626:33036---]
+
+--------------Boundary-00=_BQIDVA40000000000000
+Content-Type: Text/Html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:rn="http://schemas.rightnow.com/crm/document">
+<head>
+<title>Modelo Câmara</title>
+
+<style type="text/css" xml:space="preserve">
+/*<![CDATA[*/
+P.MsoNormal {
+        MARGIN: 0px
+}
+LI.MsoNormal {
+        MARGIN: 0px
+}
+DIV.MsoNormal {
+        MARGIN: 0px
+}
+P.MsoListParagraph {
+        MARGIN-LEFT: 48px
+}
+LI.MsoListParagraph {
+        MARGIN-LEFT: 48px
+}
+DIV.MsoListParagraph {
+        MARGIN-LEFT: 48px
+}
+/*]]>*/
+</style>
+                                                                     
+</head>
+<body style="FONT-FAMILY: Segoe UI, Verdana, sans-serif">
+
+<div title="rntmarker_59261" id="rntmarker_59261_wDnEJcgb">
+
+<table style="FONT-FAMILY: Segoe UI, Verdana, sans-serif" cellspacing="0" cellpadding="0" width="610" align="center" border="1">
+<tbody>
+<tr>
+<td bgcolor="#F5F5F5">
+<table style="FONT-FAMILY: Segoe UI, Verdana, sans-serif" cellpadding="5" width="600" align="center">
+<tbody>
+<tr>
+<td bgcolor="#FFFFFF">
+<table>
+<tbody>
+<tr>
+<td valign="top">
+<p> </p>
+<p> </p>
+<p> </p>
+</td>
+<td valign="top" width="500">
+<p align="center"><img alt="Image" height="33" src="https://camara.custhelp.com/rnt/rnw/img/enduser/logocamara.jpg" width="285" /></p>
+
+<table style="FONT-FAMILY: Segoe UI, Verdana, sans-serif; WIDTH: 561px" cellpadding="1" width="561">
+<tbody>
+<tr>
+<td>
+<h1 style="FONT-SIZE: 12pt; FONT-FAMILY: Calibri; FONT-WEIGHT: normal; COLOR: #000000; MARGIN: 5px"></h1>
+
+<h1 style="FONT-SIZE: 12pt; FONT-FAMILY: Calibri; FONT-WEIGHT: normal; COLOR: #000000; MARGIN: 5px"></h1>
+Esta notificação está sendo encaminhada para acompanhamento do atendimento à demanda a seguir, encaminhada por meio do Fale Conosco da Câmara dos Deputados.
+<p style="FONT-SIZE: 12pt; FONT-FAMILY: Calibri; FONT-WEIGHT: normal; COLOR: #000000; MARGIN: 5px"></p>
+<h1 style="FONT-SIZE: 12pt; FONT-FAMILY: Calibri; FONT-WEIGHT: normal; COLOR: #000000; MARGIN: 5px">Identificação da demanda:</h1>
+<p style="FONT-SIZE: 12pt; FONT-FAMILY: Calibri; FONT-WEIGHT: normal; COLOR: #000000; MARGIN: 5px">Protocolo: 170109-000079</p>
+<p style="FONT-SIZE: 12pt; FONT-FAMILY: Calibri; FONT-WEIGHT: normal; COLOR: #000000; MARGIN: 5px">Título:<span style="HEIGHT: 19px; WIDTH: 500px">  Esclarecimentos acerca de reembolso do Dep. Antônio Jácome</span></p>
+<p style="FONT-SIZE: 12pt; FONT-FAMILY: Calibri; FONT-WEIGHT: normal; COLOR: #000000; MARGIN: 5px"></p>
+</td>
+</tr>
+<tr>
+<td>
+
+<div style="font-size: 12pt; border: 1px solid #CCC; background-color: #EEE">Resposta Por E-mail (Câmara dos Deputados) <span style="FONT-SIZE: 10pt; COLOR: #4f4f4f">(14/02/2017 14:49)</span></div>
+<div style="font-size: 12pt; border: 1px solid #BBB;">
+<div><span style="font-family:arial;font-size:12px;">Senhor(a) Pedro Vilanova dos Reis,</span><br />
+<br />
+<span style="font-family:arial;font-size:12px;">A Câmara dos Deputados agradece seu contato.</span><br />
+<br />
+<span style="font-family:arial;font-size:12px;">Em atenção ao solicitado, </span><span style="font-family:arial;font-size:12px;">esclarecemos que </span><span style="font-family:arial;font-size:12px;">o Deputado Antônio Jácome</span><span style="font-family:arial;font-size:12px;">&nbsp;informou ao</span><span style="font-family:arial;font-size:12px;">&nbsp;Departamento de Finanças, Orçamento e Contabilidade da Câmara dos Deputados o que se segue:</span><br />
+<br />
+<span style="font-family:Arial;font-size:12px;">&quot;Em atenção ao Of. 136/2017 – Cogep, informo que a referida despesa é resultado do acúmulo de várias refeições efetuadas por mim, durante o período de 27/08/2016 a 05/09/2016.&quot;</span><br />
+<br />
+<span style="font-family:arial;font-size:12px;">Atenciosamente,</span><br />
+<br />
+<span style="font-family:arial;font-size:12px;">Câmara dos Deputados</span></div>
+
+
+</div>
+
+
+
+
+
+
+
+<div style="font-size: 12pt; border: 1px solid #CCC; background-color: #EEE">Resposta Por E-mail (Câmara dos Deputados) <span style="FONT-SIZE: 10pt; COLOR: #4f4f4f">(30/01/2017 14:13)</span></div>
+<div style="font-size: 12pt; border: 1px solid #BBB;">
+<div><span style="font-family:arial;">Senhor(a) Pedro Vilanova dos Reis,</span><br />
+<br />
+<span style="font-family:arial;">A Câmara dos Deputados agradece seu contato.</span><br />
+<br />
+<span style="font-family:Arial;">Em atenção ao solicitado, informamos que o Departamento de Finanças, Orçamento e Contabilidade (Defin) está procedendo a uma averiguação dos registros do sistema de controle da Cota para o Exercício da Atividade Parlamentar e da documentação reembolsada, referentes ao caso relatado pelo requerente. Esse Departamento está adotando as medidas necessárias junto ao gabinete parlamentar para o esclarecimento da situação ou eventual restituição de valor reembolsado.</span></div>
+<div><span style="font-family:Arial;">Ressaltamos, por oportuno, que assim que obtivermos a resposta do parlamentar sobre o caso relatado, encaminharemos os esclarecimentos por este mesmo canal de atendimento.</span></div>
+<div><span style="font-family:Arial;">Em caso de dúvidas, continuamos à disposição.</span></div>
+<div><br />
+<span style="font-family:arial;">Atenciosamente,</span><br />
+<br />
+<span style="font-family:arial;">Câmara dos Deputados</span></div>
+
+
+</div>
+
+
+
+
+
+
+
+<div style="font-size: 12pt; border: 1px solid #CCC; background-color: #CCC">Demandante Por Autosserviço (Pedro Vilanova dos Reis) <span style="FONT-SIZE: 10pt; COLOR: #4f4f4f">(09/01/2017 11:37)</span></div>
+<div style="font-size: 12pt; border: 1px solid #BBB; background-color: #FFF">
+Venho por meio deste solicitar esclarecimentos acerca de um reembolso efetuado a partir da CEAP. Trata-se de uma despesa do Deputado Antônio Jácome no dia 05/09/2016.<br /><br />No documento, está descrita a aquisição de 9kg de comida. Tendo em vista que a CEAP, de acordo com Ato da Mesa, é de usufruto exclusivo do parlamentar no que diz respeito a fornecimento de alimentação, solicito uma devolutiva a este pedido.<br /><br />Seguem links para apreciação:<br /><br /><a href="http://www.camara.gov.br/cota-parlamentar/documento?nuDeputadoId=3010&numMes=9&numAno=2016&despesa=13&idDocumento=160206" target="_blank">http://www.camara.gov.br/cota-parlamentar/documento?nuDeputadoId=3010&numMes=9&numAno=2016&despesa=13&idDocumento=160206</a><br /><a
+href="https://www.camara.leg.br/cota-parlamentar/documentos/publ/3010/2016/6097800.pdf" target="_blank">https://www.camara.leg.br/cota-parlamentar/documentos/publ/3010/2016/6097800.pdf</a>
+</div>
+
+
+
+
+
+
+
+</td>
+</tr>
+</tbody>
+</table>
+<p style="FONT-SIZE: 12pt; FONT-FAMILY: Calibri; MARGIN: 0px; LINE-HEIGHT: 18px"></p>
+<p style="FONT-SIZE: 12pt; FONT-FAMILY: Calibri; FONT-WEIGHT: normal; MARGIN: 0px; LINE-HEIGHT: 18px">Por favor, não responda a este e-mail.</p>
+
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<img alt="" height="1" width="1" style="display: none" src="http://camara.custhelp.com/rd/AvMo~wo3Dv8S~Zj~Guce~yJj9v8qmi75Mv_2~zj~PP9~.gif"/> <div id="checksum" align="right"><span style="font-size: 1pt">
+[---001:002153:59261---]
+</span></div>
+</div>
+</body>
+</html>
+
+--------------Boundary-00=_BQIDVA40000000000000--
+

@@ -1,0 +1,273 @@
+Delivered-To: op.serenatadeamor@gmail.com
+Received: by 10.202.96.66 with SMTP id u63csp1710892oib;
+        Tue, 14 Feb 2017 10:59:46 -0800 (PST)
+X-Received: by 10.107.164.232 with SMTP id d101mr28571745ioj.182.1487098786149;
+        Tue, 14 Feb 2017 10:59:46 -0800 (PST)
+Return-Path: <camara@mailmw.custhelp.com>
+Received: from mailgwmw03.rightnowtech.com (mailgwmw03.rightnowtech.com. [74.117.203.123])
+        by mx.google.com with ESMTPS id p185si1714897iof.194.2017.02.14.10.59.45
+        for <op.serenatadeamor@gmail.com>
+        (version=TLS1 cipher�S128-SHA bits8/128);
+        Tue, 14 Feb 2017 10:59:46 -0800 (PST)
+Received-SPF: pass (google.com: domain of camara@mailmw.custhelp.com designates 74.117.203.123 as permitted sender) client-ipt.117.203.123;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@mailmw.custhelp.com;
+       spf=pass (google.com: domain of camara@mailmw.custhelp.com designates 74.117.203.123 as permitted sender) smtp.mailfrom�mara@mailmw.custhelp.com;
+       dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=custhelp.com
+Return-Path: <camara@mailmw.custhelp.com>
+DomainKey-Signature: q=dns; a=rsa-sha1; c=nofws;
+	s=dkrnt; d=mailmw.custhelp.com;
+	h=DKIM-Signature:Received:Content-Type:From:To:Date:Subject:MIME-Version:Message-Id;
+	b=n+xfuA3Es17770OSoSK5k8AXOew3zg2pGLHRP5J2vW+VcLxvNo/nb2vhJTw3wr/9
+	w+T2Oyps5daeAan/dUURdacNIbUT53anTGmIJqXzwf4VowJm//L+0m6NWPxUpQ9v
+	kBYp5+TEntjPSaMIyrc+aLxYR5XeuiywtimOMR/0qw8DKIM-Signature: v=1; a=rsa-sha1; d=mailmw.custhelp.com; s=dkimrnt; c=simple/simple;
+	q=dns/txt; i=@mailmw.custhelp.com; t87098785;
+	h=From:Subject:Date:To:MIME-Version:Content-Type;
+	bh=vDCA0BDzI6vGDjJm0djcsAMLifQ=;
+	b=IFo3Wvfklp3jpsbFHeZGE8jm++gNt56b3Mudk1O+vyVL1CY2zH4ta/JtmEeFZlqc
+	YiBkP8U1RYZCu1TE60zNsjSaYt9+1tDPr+PHX0LA13D8ODaBbbV4+nc9cyp4N56H
+	76kPLxud1t1Tn+aiKvzTLQUyF50GLko7vdAbn0GYR9c=;
+Received: from [10.70.0.64] ([10.70.0.64:54810] helo�cess-mw.rightnowtech.com)
+	by rntmw125.rnmk.com (envelope-from <camara@mailmw.custhelp.com>)
+	(ecelerity 2.2.2.45 r(34222M)) with ESMTP
+	id 5E/B3-16178-1A353A85; Tue, 14 Feb 2017 12:59:45 -0600
+Received: from webmw01.int.rightnowtech.com (localhost [127.0.0.1])
+	by access-mw.rightnowtech.com ("Mail Server") with SMTP id AC4031A93DD
+	for <op.serenatadeamor@gmail.com>; Tue, 14 Feb 2017 12:59:45 -0600 (CST)
+Content-Type: Multipart/Alternative;
+  boundary="------------Boundary-00=_LRODVA40000000000000"
+From: =?UTF-8?Q?"Câmara_dos_Deputados"_?    <camara@mailmw.custhelp.com>
+To: op.serenatadeamor@gmail.com
+Date: Tue, 14 Feb 2017 16:59:45 -0200 (BRST)
+Subject: =?UTF-8?Q?Esclarecimentos_acerca_de_reembolso_do_Dep._Diego_Garcia_[N�?    =?UTF-8?Q?�_de_Protocolo:__170111-000041]?MIME-Version: 1.0
+Message-Id: <RNTT.AvM0~wpkDv8S~Yb~GlMe~yJj9v8qmjj~CvnDRDj~PP8K.1487098785.wDnEJcgb@webmw01.int.rightnowtech.com>
+
+
+--------------Boundary-00=_LRODVA40000000000000
+Content-Type: Text/Plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Recently you requested personal assistance from our on-line support  
+center. Below is a summary of your request and our response.
+
+If this issue is not resolved to your satisfaction, you may reopen it within the next 7 days.
+
+Thank you for allowing us to be of service to you.
+To access your question from our support site, click http://camara.custhelp.com/app/account/questions/detail/i_id/6605/track/AvM0~wpkDv8S~Yb~GlMe~yJj9v8qmi75Mv~b~zj~PP8S/
+
+---------------------------------------------------------------
+
+Subject
+---------------------------------------------------------------
+Esclarecimentos acerca de reembolso do Dep. Diego Garcia
+
+Discussion Thread
+---------------------------------------------------------------
+Resposta By E-mail (Câmara dos Deputados) (14/02/2017 16:59)     
+Senhor(a) Pedro Vilanova dos Reis,
+
+A Câmara dos Deputados agradece seu contato.
+
+Em atenção ao solicitado, esclarecemos que o Departamento de Finanças, Orçamento e Contabilidade da Câmara dos Deputados informa o que se segue:
+"Tendo em vista a dúvida suscitada pelo(a) requerente da mensagem supracitada, quanto à regularidade do ressarcimento, o parlamentar entrou em contato com esta Coordenação e procedeu à devolução do valor de R$ 139,00 referente à despesa ressarcida por meio da Cota para o Exercício da Atividade Parlamentar – CEAP, objeto do questionamento.
+Ressaltamos que já foram efetuados os devidos ajustes no sistema de Controle da Cota para o Exercício da Atividade Parlamentar e Portal Transparência da Câmara dos Deputados na internet."
+
+Atenciosamente,
+
+Câmara dos Deputados
+
+
+Resposta By E-mail (Câmara dos Deputados) (31/01/2017 11:22)     
+Senhor(a) Pedro Vilanova dos Reis,
+
+A Câmara dos Deputados agradece seu contato.
+ 
+Em atenção ao solicitado, informamos que o Departamento de Finanças, Orçamento e Contabilidade (Defin) está procedendo a uma averiguação dos registros do sistema de controle da Cota para o Exercício da Atividade Parlamentar e da documentação reembolsada, referentes ao caso relatado pelo requerente. Esse Departamento está adotando as medidas necessárias junto ao gabinete parlamentar para o esclarecimento da situação ou eventual restituição de valor reembolsado.
+Ressaltamos, por oportuno, que assim que obtivermos a resposta do parlamentar sobre o caso relatado, encaminharemos os esclarecimentos por este mesmo canal de atendimento.
+Em caso de dúvidas, continuamos à disposição.
+
+Atenciosamente,
+
+Câmara dos Deputados
+
+
+Demandante By Autosserviço (Pedro Vilanova dos Reis) (11/01/2017 09:29)     
+Venho por meio deste solicitar esclarecimentos acerca de um reembolso efetuado a partir da CEAP. Trata-se de uma despesa do Deputado Diego Garcia no dia 09/02/2015.
+
+O documento traz descrito o valor de R$ 139,00. O valor do restaurante, porém, é bem inferior para refeições para uma pessoa. O estabelecimento oferece um rodízio por um valor inferior ao da nota, de acordo com a média de refeições por pessoa, com base em sites especializados no segmento. 
+
+Seguem links para apreciação:
+https://pt.foursquare.com/v/rancho-grill/4bfd91632b83b713a3bda998
+http://www.camara.gov.br/cota-parlamentar/documento?nuDeputadoId=3043&numMes=2&numAno=2015&despesa=13&idDocumento=6383
+http://www.camara.gov.br/cota-parlamentar/documentos/publ/3043/2015/5602073.pdf
+
+
+
+Question Reference # 170111-000041
+       Date Created: 11/01/2017 09:29
+  Date Last Updated: 14/02/2017 16:59
+             Status: Respondida
+
+
+[---001:003002:06231---]
+
+--------------Boundary-00=_LRODVA40000000000000
+Content-Type: Text/Html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:rn="http://schemas.rightnow.com/crm/document">
+<head>
+<title>Modelo Câmara</title>
+
+<style type="text/css" xml:space="preserve">
+/*<![CDATA[*/
+P.MsoNormal {
+        MARGIN: 0px
+}
+LI.MsoNormal {
+        MARGIN: 0px
+}
+DIV.MsoNormal {
+        MARGIN: 0px
+}
+P.MsoListParagraph {
+        MARGIN-LEFT: 48px
+}
+LI.MsoListParagraph {
+        MARGIN-LEFT: 48px
+}
+DIV.MsoListParagraph {
+        MARGIN-LEFT: 48px
+}
+/*]]>*/
+</style>
+                                                                     
+</head>
+<body style="FONT-FAMILY: Segoe UI, Verdana, sans-serif">
+
+<div title="rntmarker_32476" id="rntmarker_32476_wDnEJcgb">
+
+<table style="FONT-FAMILY: Segoe UI, Verdana, sans-serif" cellspacing="0" cellpadding="0" width="610" align="center" border="1">
+<tbody>
+<tr>
+<td bgcolor="#F5F5F5">
+<table style="FONT-FAMILY: Segoe UI, Verdana, sans-serif" cellpadding="5" width="600" align="center">
+<tbody>
+<tr>
+<td bgcolor="#FFFFFF">
+<table>
+<tbody>
+<tr>
+<td valign="top">
+<p> </p>
+<p> </p>
+<p> </p>
+</td>
+<td valign="top" width="500">
+<p align="center"><img alt="Image" height="33" src="https://camara.custhelp.com/rnt/rnw/img/enduser/logocamara.jpg" width="285" /></p>
+
+<table style="FONT-FAMILY: Segoe UI, Verdana, sans-serif; WIDTH: 561px" cellpadding="1" width="561">
+<tbody>
+<tr>
+<td>
+<h1 style="FONT-SIZE: 12pt; FONT-FAMILY: Calibri; FONT-WEIGHT: normal; COLOR: #000000; MARGIN: 5px"></h1>
+
+<h1 style="FONT-SIZE: 12pt; FONT-FAMILY: Calibri; FONT-WEIGHT: normal; COLOR: #000000; MARGIN: 5px"></h1>
+Esta notificação está sendo encaminhada para acompanhamento do atendimento à demanda a seguir, encaminhada por meio do Fale Conosco da Câmara dos Deputados.
+<p style="FONT-SIZE: 12pt; FONT-FAMILY: Calibri; FONT-WEIGHT: normal; COLOR: #000000; MARGIN: 5px"></p>
+<h1 style="FONT-SIZE: 12pt; FONT-FAMILY: Calibri; FONT-WEIGHT: normal; COLOR: #000000; MARGIN: 5px">Identificação da demanda:</h1>
+<p style="FONT-SIZE: 12pt; FONT-FAMILY: Calibri; FONT-WEIGHT: normal; COLOR: #000000; MARGIN: 5px">Protocolo: 170111-000041</p>
+<p style="FONT-SIZE: 12pt; FONT-FAMILY: Calibri; FONT-WEIGHT: normal; COLOR: #000000; MARGIN: 5px">Título:<span style="HEIGHT: 19px; WIDTH: 500px">  Esclarecimentos acerca de reembolso do Dep. Diego Garcia</span></p>
+<p style="FONT-SIZE: 12pt; FONT-FAMILY: Calibri; FONT-WEIGHT: normal; COLOR: #000000; MARGIN: 5px"></p>
+</td>
+</tr>
+<tr>
+<td>
+
+<div style="font-size: 12pt; border: 1px solid #CCC; background-color: #EEE">Resposta Por E-mail (Câmara dos Deputados) <span style="FONT-SIZE: 10pt; COLOR: #4f4f4f">(14/02/2017 16:59)</span></div>
+<div style="font-size: 12pt; border: 1px solid #BBB;">
+<div><span style="font-family:arial;font-size:12px;">Senhor(a) Pedro Vilanova dos Reis,</span><br />
+<br />
+<span style="font-family:arial;font-size:12px;">A Câmara dos Deputados agradece seu contato.</span><br />
+<br />
+<span style="font-family:arial;font-size:12px;">Em atenção ao solicitado,</span><span style="font-family:arial;font-size:12px;">&nbsp;esclarecemos que o Departamento de Finanças, Orçamento e Contabilidade da Câmara dos Deputados informa o que se segue:</span></div>
+<div><span style="font-family:arial;font-size:12px;">&quot;Tendo em vista a dúvida suscitada pelo(a) requerente da mensagem supracitada, quanto à regularidade do ressarcimento, o parlamentar entrou em contato com esta Coordenação e procedeu à devolução do valor de R$ 139,00 referente à despesa ressarcida por meio da Cota para o Exercício da Atividade Parlamentar – CEAP, objeto do questionamento.</span></div>
+<div><span style="font-family:arial;font-size:12px;">Ressaltamos que já foram efetuados os devidos ajustes no sistema de Controle da Cota para o Exercício da Atividade Parlamentar e Portal Transparência da Câmara dos Deputados na internet.&quot;</span><br />
+<br />
+<span style="font-family:arial;font-size:12px;">Atenciosamente,</span><br />
+<br />
+<span style="font-family:arial;font-size:12px;">Câmara dos Deputados</span></div>
+
+
+</div>
+
+
+
+
+
+
+
+<div style="font-size: 12pt; border: 1px solid #CCC; background-color: #EEE">Resposta Por E-mail (Câmara dos Deputados) <span style="FONT-SIZE: 10pt; COLOR: #4f4f4f">(31/01/2017 11:22)</span></div>
+<div style="font-size: 12pt; border: 1px solid #BBB;">
+<div><span style="font-family:arial;">Senhor(a) Pedro Vilanova dos Reis,</span><br />
+<br />
+<span style="font-family:arial;">A Câmara dos Deputados agradece seu contato.</span></div>
+<div><span style="font-family:arial;">&nbsp;</span><br />
+<span style="font-family:Arial;">Em atenção ao solicitado, informamos que o Departamento de Finanças, Orçamento e Contabilidade (Defin) está procedendo a uma averiguação dos registros do sistema de controle da Cota para o Exercício da Atividade Parlamentar e da documentação reembolsada, referentes ao caso relatado pelo requerente. Esse Departamento está adotando as medidas necessárias junto ao gabinete parlamentar para o esclarecimento da situação ou eventual restituição de valor reembolsado.</span></div>
+<div><span style="font-family:Arial;">Ressaltamos, por oportuno, que assim que obtivermos a resposta do parlamentar sobre o caso relatado, encaminharemos os esclarecimentos por este mesmo canal de atendimento.</span></div>
+<div><span style="font-family:Arial;">Em caso de dúvidas, continuamos à disposição.</span></div>
+<div><br />
+<span style="font-family:arial;">Atenciosamente,</span><br />
+<br />
+<span style="font-family:arial;">Câmara dos Deputados</span></div>
+
+
+</div>
+
+
+
+
+
+
+
+<div style="font-size: 12pt; border: 1px solid #CCC; background-color: #CCC">Demandante Por Autosserviço (Pedro Vilanova dos Reis) <span style="FONT-SIZE: 10pt; COLOR: #4f4f4f">(11/01/2017 09:29)</span></div>
+<div style="font-size: 12pt; border: 1px solid #BBB; background-color: #FFF">
+Venho por meio deste solicitar esclarecimentos acerca de um reembolso efetuado a partir da CEAP. Trata-se de uma despesa do Deputado Diego Garcia no dia 09/02/2015.<br /><br />O documento traz descrito o valor de R$ 139,00. O valor do restaurante, porém, é bem inferior para refeições para uma pessoa. O estabelecimento oferece um rodízio por um valor inferior ao da nota, de acordo com a média de refeições por pessoa, com base em sites especializados no segmento. <br /><br />Seguem links para apreciação:<br /><a href="https://pt.foursquare.com/v/rancho-grill/4bfd91632b83b713a3bda998" target="_blank">https://pt.foursquare.com/v/rancho-grill/4bfd91632b83b713a3bda998</a><br /><a
+href="http://www.camara.gov.br/cota-parlamentar/documento?nuDeputadoId=3043&numMes=2&numAno=2015&despesa=13&idDocumento=6383" target="_blank">http://www.camara.gov.br/cota-parlamentar/documento?nuDeputadoId=3043&numMes=2&numAno=2015&despesa=13&idDocumento=6383</a><br /><a href="http://www.camara.gov.br/cota-parlamentar/documentos/publ/3043/2015/5602073.pdf" target="_blank">http://www.camara.gov.br/cota-parlamentar/documentos/publ/3043/2015/5602073.pdf</a>
+</div>
+
+
+
+
+
+
+
+</td>
+</tr>
+</tbody>
+</table>
+<p style="FONT-SIZE: 12pt; FONT-FAMILY: Calibri; MARGIN: 0px; LINE-HEIGHT: 18px"></p>
+<p style="FONT-SIZE: 12pt; FONT-FAMILY: Calibri; FONT-WEIGHT: normal; MARGIN: 0px; LINE-HEIGHT: 18px">Por favor, não responda a este e-mail.</p>
+
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<img alt="" height="1" width="1" style="display: none" src="http://camara.custhelp.com/rd/AvM0~wpkDv8S~Yb~GlMe~yJj9v8qmi75Mv~b~zj~PP8S.gif"/> <div id="checksum" align="right"><span style="font-size: 1pt">
+[---001:002529:32476---]
+</span></div>
+</div>
+</body>
+</html>
+
+--------------Boundary-00=_LRODVA40000000000000--
+
